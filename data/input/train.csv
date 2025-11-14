@@ -1,0 +1,11 @@
+id,text,label
+1,"This product is amazing! Best purchase ever.",positive
+2,"Terrible quality. Very disappointed.",negative
+3,"Works as expected. Nothing special.",neutral
+4,"Absolutely love it! Highly recommend.",positive
+5,"Waste of money. Don't buy this.",negative
+6,"It's okay. Does the job.",neutral
+7,"Fantastic! Exceeded my expectations.",positive
+8,"Poor design. Broke after one use.",negative
+9,"Average product for the price.",neutral
+10,"Outstanding quality and service!",positive

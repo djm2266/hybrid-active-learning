@@ -1,0 +1,865 @@
+id,example,label
+0,"Premise: and in uh my mother has done business in Germany and it was very difficult for her going over there because they just don't have very many business women
+Hypothesis: My mom's never done any business in Germany.",contradiction
+1,"Premise: You can drive right up to some; others require a walk.
+Hypothesis: You can walk to some but have to drive to others.",entailment
+2,"Premise: There's more free stuff available online to fill up the time when the boss isn't around than the proxy-censor will ever let us read.
+Hypothesis: There is a lot of free stuff available online.",entailment
+3,"Premise: Sometimes they fail now, she told him.
+Hypothesis: She said that they fail sometimes.",entailment
+4,"Premise: uh-huh hum well i guess that's about it
+Hypothesis: I am not sure but I think that is all.",entailment
+5,"Premise: Park and loop routes involve parking, covering an area by foot, then parking the vehicle in a new area.
+Hypothesis: Park and loop routes don't exist.",contradiction
+6,"Premise: Now let us evaluate the historical volume data in Table 1. In the 90s (1990-97), only NHH-to-NHH (business) mail has experienced healthy volume growth.
+Hypothesis: In the 90s, only personal mail showed a growth.",contradiction
+7,"Premise: For example, the FAA Logistics Center Director committed to providing every Logistics Center employee with a $500 cash award if the Center met all of its performance targets for fiscal year 2001.
+Hypothesis: Every Logistics Center employee was to be given a $500 reward if all its performance targets were met.",entailment
+8,"Premise: Airports, railway stations, and hotels can be a pain anywhere in the world these days.
+Hypothesis: Many modes of transportation can be frustrating today.",entailment
+9,"Premise: The pleading died out of his voice. 
+Hypothesis: His begging withered as he spoke.",entailment
+10,"Premise: Nora now sits in an ominous stillness.
+Hypothesis: Nora was not in stillness before.",entailment
+11,"Premise: oh it does does it look like a lobster
+Hypothesis: Is it similar to a lobster?",neutral
+12,"Premise: OK, problem solved, the husband announced, and then added, 'if you want to sit in the Orshe for a while, here are the keys.'
+Hypothesis: The husband gave her the keys to park the Orshe.",contradiction
+13,"Premise: At the eastern end of the Tuileries stands the pink Arc de Triomphe du Carrousel, roughly contemporary with the larger arch at the Etoile, visible in a straight line beyond the Obelisk.
+Hypothesis: The Arc de Triomphe du Carrousel is located at the Tuileries' eastern end.",entailment
+14,"Premise: The Cantonese love to eat and have the reputation of eating almost anything that walks on four legs.
+Hypothesis: The Cantonese are well known for their love for food .",entailment
+15,"Premise: yeah yeah he can
+Hypothesis: Besides being capable, he can also do other things.",neutral
+16,"Premise: The crypt beneath the square contains walls and foundations from the Gallic, Roman, and medieval eras, and a well designed exhibition on early Paris.
+Hypothesis: The crypt does not contain any structures from ancient cultures.",contradiction
+17,"Premise: Benefits transfer is the science and art of adapting primary benefits research from similar contexts to obtain the most accurate measure of benefits for the environmental quality change under analysis.
+Hypothesis: Benefit transfers are math and English based. ",contradiction
+18,"Premise: Pedalos are a good starting point.
+Hypothesis: Newbies should always begin with Pedalos.",neutral
+19,"Premise: The session came to a happy end, and the voice on tv concluded:
+Hypothesis: The voice on the tv stopped.",entailment
+20,"Premise: When Delta Air Lines promises to be ready when you are, is that an instance of untrammeled individualism, catering to the whims of the impulsive jet-set rebel?
+Hypothesis: Is Delta Air Lines catering to rebellious behavior?",entailment
+21,"Premise: By the beginning of the 18th century, life in the city of Edinburgh (today's Old Town) was overcrowded and unsanitary.
+Hypothesis: Before this was recognized, Edinburgh suffered from a series of debilitating diseases.",neutral
+22,"Premise: If necessary, grant sexual favours.
+Hypothesis: They did not want any sexual favors.",contradiction
+23,"Premise: To repress the powerful polygamous impulse in men, you employ their equally powerful thirst for social status.
+Hypothesis: Human males are the only creatures without a thirst for social status.",contradiction
+24,"Premise:  ""My own.
+Hypothesis: It's his own belongings.",neutral
+25,"Premise: They are not otherwise related to the entity's cost and therefore are not an offset to its gross cost in determining its net cost of operations.
+Hypothesis: They are directly related to the entity's cost and affect it in every way.",contradiction
+26,"Premise: Think of Spike Lee at Morehouse College.
+Hypothesis: I want you to think Spike Lee at Morehouse College.",entailment
+27,"Premise: you know i and i believe that and this is one of them because these little girls will never be the same
+Hypothesis: Those girls will never be the same.",entailment
+28,"Premise: System to help the uninitiated fill out minor paperwork could go statewide, agency says.
+Hypothesis: The system helps people pay their fines.",contradiction
+29,"Premise: oh sure and and they could not give him the nomination
+Hypothesis: They couldn't nominate him.",entailment
+30,"Premise: An article claims that research universities are refocusing on undergraduates in response to charges that they take students for granted.
+Hypothesis: After being accused of not placing importance on their students, universities are starting to focus on them again. ",entailment
+31,"Premise: Alternatively, there are also fine public beaches, and they're often deserted.
+Hypothesis: There are good public beaches.",entailment
+32,"Premise: It is now a smart hotel and casino surrounded by beautiful gardens.
+Hypothesis: The smart hotel is in the vicinity of beautiful gardens.",entailment
+33,"Premise: Finally, OMB noted that the development and refinement of performance measures will be an ongoing process.
+Hypothesis: OMB has stated that it expects improvement of these measures will continue ad infinitum.",neutral
+34,"Premise: um i know a few months ago i i would feel that i had to explain to them that i'm on the other line or i'm in the middle and it's i've just come to a realization that i don't have to explain to this stranger what i'm doing it and give excuses that's it's okay just to say i'm not interested and go ahead and hang up but i i don't know i don't think most people are secure enough to probably answer
+Hypothesis: I don't have the heart to tell them no, so listen to their sales pitch.",contradiction
+35,"Premise: yeah and what to do when they're faced with it
+Hypothesis: They will be faced with it.",entailment
+36,"Premise: U.S. airports sufficient toprotect the safety of passengers and equipment?
+Hypothesis: There are no questions about that US airports are sufficient for the protection of equipment.",contradiction
+37,"Premise: In-depth, longitudinal reports of what has happened over time and why can set a context for interpreting a finding of implementation  that is, whether there seem to be basic structural problems or if the program understandably requires time for installment, adaptations, and building an infrastructure.
+Hypothesis: Most managers have observed that without these reports it takes a lot longer to find and uncover basic structural problems.",neutral
+38,"Premise: He had told Adrin to hold his fire until Jon had fired first, but that would be a hard instinct to fight.
+Hypothesis: He told Adrin to get ready to shoot i he was fired on.",neutral
+39,"Premise: hm i did i don't any more my husband does
+Hypothesis: I don't but my husband does.",entailment
+40,"Premise: Other people get this.
+Hypothesis: Other people understand that.",entailment
+41,"Premise: yeah right so they had a lot of fun
+Hypothesis: They hated it.",contradiction
+42,"Premise: 'I understand you've arranged a suitable program of events for tonight?' Natalia asked, as we strode into town.
+Hypothesis: Natalia just wanted to go to bed.",contradiction
+43,"Premise: Ca'daan turned.
+Hypothesis: Ca'daan didn't move.",contradiction
+44,"Premise: For the first few days you'd be well advised to take the sun in extremely small doses.
+Hypothesis: The sun can be dangerous, if it's your first time sunbathing in a long time.",neutral
+45,"Premise: so but i mean the price of computers has gone down they said that um if the auto industry would have kept the same trend as the computer industry has ever since you know it started
+Hypothesis: Cars would be very cheap and powerful nowadays if they had more computers in them.",neutral
+46,"Premise: Sulfates and nitrates that form in the atmosphere from SO2 and NOx emissions are significant contributors to visibility impairment in many national parks and wilderness areas, as well as urban areas across the country.
+Hypothesis: Poor visibility is a major contributor is many different kinds of accidents.",neutral
+47,"Premise: Structural steel is used primarily for the absorber, ductwork, and supports, and secondarily in miscellaneous components including reinforcement of existing structures at a facility.
+Hypothesis: Structured steel cannot act as a support, it is too weak. ",contradiction
+48,"Premise: People who are attractively slim do not talk about the ugliness of obesity in the presence of people who are grossly overweight.
+Hypothesis: Very slim people do not discuss the ugliness of obesity with larger people. ",entailment
+49,"Premise: Dynastic Periods (5000 2780 b.c. )
+Hypothesis: The Dynastic Periods ended in 800 BC.",contradiction
+50,"Premise: Oh, unbelieving one! Tuppence wrenched open her bag.
+Hypothesis: Tuppence had a wonderful thing inside the bag.",neutral
+51,"Premise: Thirty years may seem like a long time to someone nursing a grievance since the pitched battles of the late '60s, but in the sweep of history--on the heels of 90 years of Jim Crow and 200 of race slavery--it's nothing.
+Hypothesis: 30 years may seem like a long time to an individual, but it is nothing compared to the long history of race relations in the United States.",entailment
+52,"Premise:  For drinks and snacks at the water's edge, there's nothing like a beach restaurant.
+Hypothesis: There is nothing to eat on the water's edge.",contradiction
+53,"Premise: we're we're now civilized now you can no longer you you cannot drink beer and drive but uh but it was it was actually legal
+Hypothesis: Though you could do it in the past, it is now illegal to drink beer and drive.",entailment
+54,"Premise: uh-huh well i think that there are many cases where uh the judges probably do make the decision rather than the jury Our situation was somewhat different uh in view of the fact that uh we haven't we were a landmark case it was the first time in the state of Ohio that um D N A testing was entered as evidence
+Hypothesis: It is my thought that judges make the determination rather than the jury.  ",entailment
+55,"Premise: There is also a market and a porcelain shop.
+Hypothesis: There is a marketplace and a porcelain store in addition to a video game store.",neutral
+56,"Premise: Wilshire Boulevard began as an Indian trail connecting the downtown area with the La Brea tar pits and later was developed as an upscale shopping and business district.
+Hypothesis: The Wilshire Boulevard is considered to be a flourishing part of the city.",neutral
+57,"Premise: There is little point in funding research on interventions that are unlikely to be implemented.
+Hypothesis: There is much reason to fund research on intervention that will not see any real life application.",contradiction
+58,"Premise: Oh, dear, what a lot I have eaten!""
+Hypothesis: I only ate a small amount.",contradiction
+59,"Premise: After rival Fujiwara factions had been struggling for years to gain control of the imperial throne, they turned to the Taira and Minamoto armies in 1156 to wage the four-year war that heralded the end of the golden age of the Heian court.
+Hypothesis: After rival Fujiwara faction had struggled for years to gain power, they waged a four year war that ended the golden age of the Heian court.",entailment
+60,"Premise: His criteria come from Swiss psychiatrist Carl Jung by way of an American mother-daughter team named Katharine Briggs and Isabel Briggs Myers, who created the Myers-Briggs Type Indicator.
+Hypothesis: The Myers-Briggs Type Indicator was invented by Carl Jung, Katharine Briggs and Isabel Briggs Myers.  ",entailment
+61,"Premise: it seems that we have more and more repeat offenders i know i don't know how you all are there where you're at but where we're at now our jails are overcrowded we just built a brand new one two years ago
+Hypothesis: We have three jails in all.",neutral
+62,"Premise: Hong Kong Island formally became a British possession two years later in 1843.
+Hypothesis: The British took over the island of Hong Kong in 1948.",contradiction
+63,"Premise: well that sounds pretty neat i guess i guess for me um um probably the last time i went camping was uh back in high school with Boy Scouts we always took an annual trip up to uh Colorado and went fly fishing
+Hypothesis: I've never gone camping.",contradiction
+64,"Premise: Not been doing this long, eh? Tuppence raised her eyes, astonished.
+Hypothesis: Tuppence was amazed at his skill level which quite exceeded what she thought it would be based on the length of time he had said he had been doing this",neutral
+65,"Premise: According to Upjohn, the leading explanation offered by the quitters is that the drug doesn't restore the sexual desire or the pleasure they once derived from sex.
+Hypothesis: it is thought that the drug doesn't restore the sexual desire or the pleasure from sex.",entailment
+66,"Premise: i think that's kind of the key
+Hypothesis: That is an insignificant discovery.",contradiction
+67,"Premise: Davis, ironically, has accepted a history appointment 3,000 miles away--at Long Island's State University of New York at Stony Brook.
+Hypothesis: Davis accepted a new position 3,000 miles away in order to distance himself from local scandal.",neutral
+68,"Premise: And without full voting rights, there's nothing that investors--even institutional investors--can do if things go haywire.
+Hypothesis: Institutions have different levels of voting rights for their investors.",entailment
+69,"Premise: Packet switching is a frugal, efficient way to send data from point a to point b (albeit via points c, d, q, and k).
+Hypothesis: Packet switching is cheap and sends data quickly.",entailment
+70,"Premise: It is sad that the best technical health-care system in the world is delivered so poorly that the professionals charged with caring for us feel compelled to sacrifice their independence in this way.
+Hypothesis: We have the best technology but delivery health care poorly.",entailment
+71,"Premise: But, except on election night, these were a relatively small part of their Web sites, let alone their overall news.
+Hypothesis: It was a small part of their Websites and news.",entailment
+72,"Premise: To reach Blackpool, take the M6 south from Kendal (junction 36) until you reach the M55 at junction 32, approximately 30 km (20 miles) away.
+Hypothesis: You can get in a day from Blackpool to Kendal by walking.",neutral
+73,"Premise: An auditor using this guide to review an acquisition that includes significant software development and has a contract in place should review appendix II for techniques to help identify variances from the agency's cost and schedule estimates.
+Hypothesis: Appendix II shows ways to identify large variances from the group's cost and schedule estimates.",neutral
+74,"Premise: But there was something about that photo"" Julius shook his head, and heaved a sigh ""I guess romance is a mighty queer thing!""
+Hypothesis: Julius sighs aloud, expressing that he feels romance is very strange.",entailment
+75,"Premise: He smiled.
+Hypothesis: He frowned.  ",contradiction
+76,"Premise: yeah we set a record yesterday and uh very very windy but then today the wind has dropped off and also the temperature so very cool  uh i think right now it's like sixty nine
+Hypothesis: Yesterday we had a record setting weather day and today it's around 69 degrees. ",entailment
+77,"Premise: yeah just as quickly
+Hypothesis: yes, at the same time",neutral
+78,"Premise: uh how do you feel about gun control
+Hypothesis: How do you feel about healthcare?",contradiction
+79,"Premise: i think there's an eighty percent chance this evening but it's supposed to be cleared out at least by noon tomorrow and then the rest'll be without rain
+Hypothesis: I bet that it will rain this evening.",neutral
+80,"Premise: Consider the contract the Postal Service now has with Emery Worldwide to process and transport Priority Mail.
+Hypothesis: Do not consider Emory worldwide ",contradiction
+81,"Premise: The New Yorker 's Alex Ross calls Palestrina --about the 16 th -century Italian church-music composer--a spectacle that is magnificent on the surface and haunting at the core.
+Hypothesis: Ross calls Palestrina magnificent and haunting.",entailment
+82,"Premise: TIG staff presented the TIG-funded I-CAN project from Orange County, California to the Virginia Court System.
+Hypothesis: The project worked well in Orange County, California.",neutral
+83,"Premise: Britain began taking India more seriously.
+Hypothesis: India was taken more seriously by Britain with time.",entailment
+84,"Premise: Pete Dawkins in New Jersey in 1988
+Hypothesis: Pete Dawkins went to New Jersey.",entailment
+85,"Premise: Further, some members from federal agencies said that it took time for them to determine how they could share sensitive, including classified, information with nonfederal government entities.
+Hypothesis: Federal agencies are prohibited from sharing classified or sensitive information anywhere outside of their agency.",contradiction
+86,"Premise: and realized that that was the first time in my life i had seen trees lose their leaves and uh and course when spring and everything came out again
+Hypothesis: It was the first time I'd ever seen trees shed their leaves.",entailment
+87,"Premise: The post-1960s Democratic Party has come close to making the same mistake.
+Hypothesis: The Democratic party has been around for 200 years.",neutral
+88,"Premise: To find what's on in general consult the Time Out supplement of the Jerusalem Post on Fridays, This Week in Tel Aviv, and Tel Aviv Today, a particularly good free monthly magazine.
+Hypothesis: The Tel Aviv Today is the only free monthly publication in Israel.",neutral
+89,"Premise: We must have unselfish, far-seeing leadership or we fail.
+Hypothesis: If we don't have unselfish leadership, we will fail, said the manager.",neutral
+90,"Premise: So it is not surprising that when bubonic plague struck in 1894, it took nearly 30 years to fully eradicate it.
+Hypothesis: The cause of the bubonic plague were rats.",neutral
+91,"Premise: and and just all the way back to Dallas i'm just uproariously sick and uh we get back here and of course the first day back at work i go to work and where are these guys
+Hypothesis: These men all have big smiles on their faces.",neutral
+92,"Premise: According to a 1997 GAO report only 296 of 2,614 closings were appealed over a 20-year period.
+Hypothesis: None of the closings were appealed. ",contradiction
+93,"Premise: The Commission received comments on the proposed rule from 45 commenters.
+Hypothesis: 45 people commented on the proposed rule.",entailment
+94,"Premise: The regent Kaahumanu, ruling in the name of her young charge, Kamehameha III, seized the opportunity and followed many of the strictures favored by the Calvinist Congregationalists, who were modernizing the country through the establishment of schools and the printing of books in the Hawaiian language (which they formulated in a written form for the first time).
+Hypothesis: Kaahumanu was in charge when schools were established and books were printed in the Hawaiian language.",entailment
+95,"Premise: yeah it's yeah and ours yeah and see in our case it's you have to you have to exit you have to leave and if you have to leave your home to get away from this individual that's what you should do so what choice have you got you know as far as as far as our laws go up here
+Hypothesis: If that is the case you need to get off the premises to get away from that person.",entailment
+96,"Premise: Something, as he expressed it, seemed to snap in his brain.
+Hypothesis: His brain had a thought and he liked it.",neutral
+97,"Premise: There is a saucepan in Mrs. Inglethorp's room with some coco in it. 
+Hypothesis: Mrs. Inglethrop's room contains a saucepan and  some coco.",entailment
+98,"Premise: The analyses comply with the informational requirements of the sections including the classes of small entities subject to the requirement and alternatives considered to reduce to the burden on the small entities.
+Hypothesis: The requirements try to ease the burden on small entities.",entailment
+99,"Premise: The Kal kicked low into Adrin's thigh.
+Hypothesis: Adrin was kicked in the thigh by the Kal's spiky boot.",neutral
+100,"Premise: Equally spectacular are the panoramas from the Belvedere di Pocol and Tondi di Faloria.
+Hypothesis: There is a spectacular panorama from the Tondi di Faloria.",entailment
+101,"Premise: Flustered but suffused with good-natured liberal heartiness, Levy initiates a series of father-son talks that are among the most excruciating ever filmed.
+Hypothesis: Levy begins a series of talks between father and son, which the very young appreciated a lot.",neutral
+102,"Premise: Say? Tommy shrugged his shoulders.
+Hypothesis: You say so? Tommy showed that he did not know anything.",neutral
+103,"Premise: and your just like yeah well sort of right
+Hypothesis: I don't think I would understand either.",neutral
+104,"Premise: he's he's not a subject of great pride
+Hypothesis: He doesn't have a lot of pride.",entailment
+105,"Premise: There's no reason to have nothing to do when there's an endless amount of pro bono work out there and maybe you will get a chance to learn something that you wouldn't get a chance to otherwise.
+Hypothesis: There's no reason to have something to do when there's never any work to do.",contradiction
+106,"Premise: well isn't isn't Sleeping with the Enemy isn't that a is is it is it a terror movie or is it just suspenseful
+Hypothesis: Sleeping with the enemy is a scary movie",entailment
+107,"Premise: Originally separate settlements, these two towns have now merged to the point that visitors can't tell where one starts and the other finishes.
+Hypothesis: The towns were once merged but are not separated.",contradiction
+108,"Premise: San'doro moved like wind, cutting saddles off of horses, cutting the arms that dared to attack him, and the throats of the fallen.
+Hypothesis: San'doro had a dagger in his right hand, and a crossbow on his side.",neutral
+109,"Premise: They were writers, and therefore in a position to arrange their own schedules, correct?
+Hypothesis: Writers should be allowed to arrange their own schedules, but only on Sundays.",neutral
+110,"Premise: The Oregon Law Center is one of a few legal groups that cater to farmworkers.
+Hypothesis: The law center caters to farmeworkers, one of the few that does.",entailment
+111,"Premise: Doctors have given a generation of such children normal sex organs (i.e.
+Hypothesis: Doctors give children abnormal sex organs. ",contradiction
+112,"Premise: As part of this new approach, the Corps reformed its processes, revising its policies and procedures to ensure that only those that were necessary remained.
+Hypothesis: The Corps did not reform its processes as part of this new approach. ",contradiction
+113,"Premise: how do you thaw one out after it's been coated like that i've always lived down in this part of the country and i'm not used you know we had an ice storm or a sleet
+Hypothesis: There is no icestorm possible.",contradiction
+114,"Premise: He was one of the dead--there should be no quickening of breath within him!
+Hypothesis: He died doing what he loved.",neutral
+115,"Premise: so it it just doesn't hold water and you look at some of the other countries that that have the death penalty
+Hypothesis: It makes perfect sense, so there's no need to look elsewhere for answers.",contradiction
+116,"Premise: He's testing you.
+Hypothesis: He's not concerned with you.",contradiction
+117,"Premise: ah sounds familiar
+Hypothesis: I have never heard anything like this before. ",contradiction
+118,"Premise: Cynthia herself.
+Hypothesis: Cynthia on her own.",entailment
+119,"Premise: That was about all I could do for the moment.
+Hypothesis: Nothing was done. ",contradiction
+120,"Premise: In some cases, it may be necessary to present and characterize financial data in ways that differ from traditional financial reporting and to supplement traditional data with nonfinancial data.
+Hypothesis: Nonfinancial data includes turnover rates and medical claims cost.",neutral
+121,"Premise: The main building soars 243 m (797 ft), splitting on the 33rd floor into two towers.
+Hypothesis: The building is very short, only standing at about 200 feet high.",contradiction
+122,"Premise: Meanwhile, lawyers were at a premium Indians love litigation and it was ideal training for future politicians and politics had been clandestine, because it was so often fatal to express an opinion on the wrong (i.e. , losing) side.
+Hypothesis: Lawyers were at a premium and it was ideal training for future politicians and politics.",entailment
+123,"Premise: yeah you too bye bye
+Hypothesis: Same to you, goodbye.",entailment
+124,"Premise: But they think themselves accurs'd and hold their manhoods cheap.
+Hypothesis: There are people who hold their manhoods cheap and live less than who they are.",neutral
+125,"Premise: Let me propose another reference group that the culturati might glorify in the (perhaps vain) hope of curbing spending- happily functioning people.
+Hypothesis: This group will consist of only the richest people humanly possible.",neutral
+126,"Premise: I noticed this as I was moving the furniture on the second floor back into the bedrooms.
+Hypothesis: I didn't notice anything on the second floor.",contradiction
+127,"Premise: Lee Kemp, a hearing-impaired World War II disabled vet, also was evicted, but he contacted Utah Legal Services and was told to stay put.
+Hypothesis: Lee Kamp is a healthy teenager.",contradiction
+128,"Premise: In case study methods, to understand what happened and why, context always is considered, and it is this consideration that gives the case study its strength as a way of understanding cause and effect.
+Hypothesis: Cause and effect must be understood with case studies because researchers feel that it provides stronger and more nuanced analysis.",neutral
+129,"Premise: As the federal government's leading accountability organization, we have made a concerted effort to identify and encourage the implementation of human capital practices that improve the efficiency, effectiveness, and accountability of the federal government.
+Hypothesis: The federal government strives to be as successful and efficient as possible.",neutral
+130,"Premise: What did you expect?
+Hypothesis: What was it that you expected?",entailment
+131,"Premise: San'doro rolled to his feet, cloak spinning behind him.
+Hypothesis: San'doro rose, drawing his daggers as he did.",neutral
+132,"Premise: you know what other things are out there that are that are classics you know that have withstood time and that are just excellent something's excellent about them
+Hypothesis: The classics are a great piece of work which is why the are still around today. ",entailment
+133,"Premise: Breaking  Susan Page reported on Late Edition that President Clinton would make a January recess appointment of Bill Lann Lee to the job the Senate won't confirm him for, assistant attorney general for civil rights.
+Hypothesis: Susan Page was on Crossfire.",contradiction
+134,"Premise: They went together, Sylvia to get the La Berg Shilouette 14, and Jolanta to keep her company.
+Hypothesis: Jolanta couldn't stand to go anywhere with Sylvia.",contradiction
+135,"Premise: This form of justification, which became known as laxism, may explain why Jesuit priests were the confessors of choice among Europe's Catholic aristocracy.
+Hypothesis: Jesuit priest were among the least preferred confessors in Europe's Catholic aristocracy.",contradiction
+136,"Premise: And he accepted city officials' invitations to analyze and comment on a low-income housing ordinance in Pasadena along with other housing advocates.
+Hypothesis: The data needs to be processed by talented people.",neutral
+137,"Premise: Even if we avoided killing people, we couldn't repair every war-torn region.
+Hypothesis: We avoided killing people, but we did kill a lot of animals.",neutral
+138,"Premise: That Mrs. Inglethorp may have inadvertently taken an overdose?"" 76 ""Three, or even four doses, would not have resulted in death. 
+Hypothesis: It would have been difficult for the woman accidentally OD.",entailment
+139,"Premise: She was a pleasant-looking woman of about forty, with a deep voice, almost manly in its stentorian tones, and had a large sensible square body, with feet to match, these last encased in good thick boots. 
+Hypothesis: She was the finest looking woman in the room.",neutral
+140,"Premise: Apparently it's easier to make a mouse talk than to come up with something interesting for him to say (Kenneth Turan, the Los Angeles Times ).
+Hypothesis: If you give a mouse a microphone he'll tell you the secret to life.",contradiction
+141,"Premise: In Massachusetts, Holyoke Mall encourages shoppers to buy gift certificates online with our secure ordering service.
+Hypothesis: Holyoke Mall hopes customers will buy gift certificates and sign up for discounts at their online site.",neutral
+142,"Premise: Blackmail is saying you'll tell unless you are given money.
+Hypothesis: Asking for money to keep silent is considered blackmail.",entailment
+143,"Premise: and i i did a lot of growing up there uh
+Hypothesis: I burned down a lot there.",contradiction
+144,"Premise: Today, Italy; tomorrow, who knows?
+Hypothesis: I've been thinking about going to Myanmar after our trip to Italy.",neutral
+145,"Premise: That the youth of the race is revived?
+Hypothesis: That the younger generation of the race is given a new purpose?",neutral
+146,"Premise: You will receive a one-hour course, including instruction on the rudiments of flight.
+Hypothesis: It will cost you a lot of money to receive flight instruction.  ",neutral
+147,"Premise: His head ached badly; also, he was hungry.
+Hypothesis: The man had not had a proper meal in days.",neutral
+148,"Premise: In fact, recent capacity expansions provide strong evidence of this.
+Hypothesis: Capacity increases are following higher demand.",neutral
+149,"Premise: Slavery Declines
+Hypothesis: Slavery was still used.",neutral
+150,"Premise: well man that's that's just ridiculous
+Hypothesis: I cannot believe that it is actually real.",neutral
+151,"Premise: But so's some one else! 
+Hypothesis: Although so is anyone else!",entailment
+152,"Premise: He remains a revered figure in the Irish pantheon.
+Hypothesis: He went down in Irish lore as a disgrace.",contradiction
+153,"Premise: and just barely it amounts to running out the back door and uh heading for the pool jumping in swimming some sprints or something like that and then running back again
+Hypothesis: It's running, diving into the pool and swimming some laps, and then running again. ",entailment
+154,"Premise: Totals may not sum due to rounding.
+Hypothesis: Rounding may cause inaccurate totals.",entailment
+155,"Premise: or classes of payments from this prohibition.
+Hypothesis: It was classes based on the payments.",entailment
+156,"Premise: well no no you fish upstream
+Hypothesis: You have to fish downstream.",contradiction
+157,"Premise: Audit documentation serves three main  (1) to provide the principal support for the auditors' report, (2) to aid auditors in conducting and supervising the audit, and (3) to allow for the review of audit quality.
+Hypothesis: Audit documents allow for the review of audit quality and to verify every line in the expense report. ",neutral
+158,"Premise: An unusual feature is the huge spiral ramp of the Tour des Minimes, wide enough to allow access for horses and provisions.
+Hypothesis: Surprisingly, the Tour des Minimes has a wide ramp that horses can traverse.",entailment
+159,"Premise: It turns out the manager of the seniors complex, its attorneys and government overseers were unaware, too.
+Hypothesis: Several people were not aware of the situation.",entailment
+160,"Premise: Meanwhile, Locke has proposed spending about half the reserve fund to bail out local governments--perhaps because he doesn't want to be outflanked by the state auditor who has positioned himself as the Democrat who can make I-695 work (the auditor wants a financial review of all state programs).
+Hypothesis: Locke has recommended bailing out local governments.",entailment
+161,"Premise: You can count on me."" As Tommy had judged, the faithful Albert proved an invaluable ally.
+Hypothesis: Tommy had already known that Albert would be an important ally.",entailment
+162,"Premise: The ringing of Chioninji's bell, Japan's large st and best known, is televised nationally when resident monks usher in the new year.
+Hypothesis: Chioninji's bell is rung on TV every year, but only in the summer.",contradiction
+163,"Premise: It's like one of those Westerns where the town barber is also the postmaster and the saloonkeeper.
+Hypothesis: In Westerns, the town barber was sometimes the doctor.  ",neutral
+164,"Premise: The state of Yamato, as early Japan was known, was organized into uji, or clusters of clans, together with subordinate guilds of farmers, fishermen, hunters, weavers, and potters, all subject to the dominant uji of the imperial family.
+Hypothesis: The state of Yamato, as early Japan was know, consisted of a single clan.",contradiction
+165,"Premise: on the other coast
+Hypothesis: On this coast.",contradiction
+166,"Premise: even women who do stay home to raise families i think that they are still thought of as equals in in the role you know as far as the role in the family and society goes
+Hypothesis: Women who stay at home to raise families are regarded as second-class citizens.",contradiction
+167,"Premise: Vrenna flicked her saber, blood and rain droplets flew off of it in a mist.
+Hypothesis: Vrenna's saber was covered n blood.",entailment
+168,"Premise: 3. Worst/Best Films of 1999
+Hypothesis: 1999's best/worst films.",entailment
+169,"Premise: So males with a predisposition to status-seeking left more offspring than those without, and the end result is Bill G-g-g---I mean, Ronald Perelman.
+Hypothesis: Status seeking behavior can be linked to abandoning children.",neutral
+170,"Premise: It has seen such illustrious guests as Winston Churchill and Agatha Christie, who wrote her thriller Death on the Nile while staying here.
+Hypothesis: Agatha Christie wrote Death on the Nile as a secret parable for the Vampire Wars.",neutral
+171,"Premise: not a soldier or a bounty hunter.
+Hypothesis: He was not a soldier or bounty hunter.",entailment
+172,"Premise: They don't need this one which isn't.""
+Hypothesis: They don' need one that isn't like them.",neutral
+173,"Premise: The USPS determines the amount of current carrier time based on the percentages of time spent in route and load
+Hypothesis: USPS calculates the carrier time using percentages of time spent on route and load",entailment
+174,"Premise: Pleasure palaces were a secondary consideration, and were in fact mostly additions by Akbar's successors.
+Hypothesis: Pleasure palaces were high on the agenda.",neutral
+175,"Premise: When you live an isolated life at the White House or in a maximum security prison or in Patricia Duff's head, you are bound to be out of touch.
+Hypothesis: You're more likely to be out of touch while living an isolated life at the White House.",entailment
+176,"Premise: This despite a recent Charlotte Observer study that found that without busing, segregation would return for more than half of the district's students.
+Hypothesis: The students don't care whether or not they're segregated from one another.",neutral
+177,"Premise: ( Does this disqualify Di from Time 's Woman of the Year honor next week?)
+Hypothesis: Is Di disqualified from Time's Woman of the Year next week?",entailment
+178,"Premise: Jeb Bush's wife lied to customs agents.
+Hypothesis: Jeb Bush's wife failed to declare purchases she made on her trip to Europe.",neutral
+179,"Premise: you did you go to Mexico City uh anywhere near when the earthquake hit
+Hypothesis: Did you go to Mexico City?",neutral
+180,"Premise: he didn't you know he's not really into all that he would wear it if he had to for his job and all but you know if he had the preference i mean his his preference is um blue jeans and a T-shirt so
+Hypothesis: His preference is to wear simple blue jeans and a shirt.",entailment
+181,"Premise: We used our long-term economic growth model to simulate alternative fiscal policies and national saving rates.
+Hypothesis: Alternate saving rates were simulated.",entailment
+182,"Premise: After a while you may begin to detect something a bit uncanny in the way a cow seems to look around and beyond her immediate surroundings ' it's as if she knows that she's sacred.
+Hypothesis: The cow is not sacred. ",contradiction
+183,"Premise: This is more than just a job.
+Hypothesis: This isn't just a job, its more. ",entailment
+184,"Premise: And it's the widest-reaching, based on data from the largest number of stores.
+Hypothesis:  Based on data from the largest number of stores.",entailment
+185,"Premise: Figure 3: Figure 4: Figure 5: Figure 6: Figure 7: Factors to Consider in Making the Decision on Using the Data 1 Decision Process for Determining If a Data Reliability Assessment Is Required 7 Data Reliability Assessment Process 13 The First Steps of the Assessment 14 The Preliminary Assessment 19 Choosing and Conducting Additional Work 23 Making the Final Assessment 28
+Hypothesis: Figure 3, Figure, 4, and Figure 8 are all included.",entailment
+186,"Premise: The only two finalists with any kind of a shot are Miss America--a surprisingly leggy Pat Buchanan--and Miss Germany--an unexpectedly amiable Adolf Hitler.
+Hypothesis: Miss Japan and Miss Russia are the only ones with a shot at winning. ",contradiction
+187,"Premise: that would make me nervous
+Hypothesis: That would make me more confident.",contradiction
+188,"Premise: I say, that's playing it a bit low down, I protested. 
+Hypothesis: They were cheating at golf by failing to count strokes.",neutral
+189,"Premise: Marguerite with her box of jewels, the church scene, Siebel and his flowers, and Faust and Mephistopheles.
+Hypothesis: Marguerite has a box of jewels and Siebel has flowers.",entailment
+190,"Premise: They were one of probably a handful of places in the country where that happened, he said. 
+Hypothesis: The man explained that they were not the only full service gas station left.",neutral
+191,"Premise: it was it was talk nice talking to you too
+Hypothesis: It was a terrible experience conversing with you.",contradiction
+192,"Premise: If the first lady's job description no longer includes being first, then let's lobby to create a new post, the last lady--or the latest lady.
+Hypothesis: The first lady has a job description that involves a lot of hosting duties.",neutral
+193,"Premise: No, sir, there was a bit of blotting paper over that part.
+Hypothesis: No, sir, the blotting paper that was there has been removed.",neutral
+194,"Premise: I mean it.""  
+Hypothesis: I will not go and I mean it.",neutral
+195,"Premise: Hard up, are you?
+Hypothesis: You're doing great?",contradiction
+196,"Premise: Its complex curves suggest that it was sculpted rather than drawn.
+Hypothesis: It may have been sculpted due to its complex curves which are often not achievable with drawing. ",neutral
+197,"Premise: Yes, but she'd never tell us.
+Hypothesis: She will never spill the beans. ",entailment
+198,"Premise: you know Muslims as  and uh support them because they're because they will have more uh encounter with us as far as the educational and sociological economic background goes
+Hypothesis: There is interaction with Muslims in some sectors of life.",entailment
+199,"Premise: So let's get rid of these files and see what happens.
+Hypothesis: Let's ignore these files and keep them here forever. ",contradiction
+200,"Premise: well no that's true it's not but it is i mean they're coming i mean we've we've got
+Hypothesis: They are coming, it's true. ",entailment
+201,"Premise: but we don't do our work here out of enjoyment so much just right now we're just this is we just moved in in September so we're just still at the point where we're talking about the
+Hypothesis: We moved in here last December.",contradiction
+202,"Premise: Focus is  passengers
+Hypothesis: Focus is passengers",entailment
+203,"Premise: yeah yeah that's pretty bad
+Hypothesis: That's not good.",entailment
+204,"Premise: i think kids are the answer that's uh that's where our uh hopefully the cure lies if there you know is to be one
+Hypothesis: I think pets are the answer and hopefully where there will be a cure.",contradiction
+205,"Premise: Everything in between is game.
+Hypothesis: Everything in between is out of bounds.",contradiction
+206,"Premise: What do you think, Julius?""
+Hypothesis: ""Julius I don't care what you think"".",contradiction
+207,"Premise: It must have come as an almost unbearable shock to the patriotic Frenchmen of New Orleans to be told that they were Spanish citizens.
+Hypothesis: New Orleans had been under Spanish rule for twenty years before being turned over to a fledgling United States of America.",neutral
+208,"Premise: In establishing the effective date, INS and EOIR state in the preamble to the interim rule that they find good cause to make the rule effective April 1, 1997, in order to meet the statutory deadline imposed by the IIRIRA.
+Hypothesis: The statutory deadline set by the IIRIRA was on or before April 1, 1997.",neutral
+209,"Premise: South of Miyazaki, the little island of Aoshima is connected to Kyushu by a footbridge and surrounded by strange, wave-like rocks believed to be between 15 million and 30 million years old.
+Hypothesis: There are many attractions on the island of Aoshima.",neutral
+210,"Premise: Do I make myself clear?'
+Hypothesis: It was horribly intimidating when the commander stared me dead in the eyes when I wasn't paying attention and yelled into my face ""Do I make myself clear?"".",neutral
+211,"Premise: Are information sources described clearly and fully?
+Hypothesis: The information sources are unclear.",neutral
+212,"Premise: that's too bad was it lower back or
+Hypothesis: There's no way you'll be able to get out of bed any time soon.",neutral
+213,"Premise: Senior management should envision the agency's acquisition goals, define strategic objectives, and oversee the projects that implement the overall vision.
+Hypothesis: Senior management should do nothing but golf and drink margaritas.",contradiction
+214,"Premise: What's more, the white-black marriage rate lags significantly behind rates of white intermarriage with other, nonblack races.
+Hypothesis: Blacks tend to avoid interracial marriages of any kind.",neutral
+215,"Premise: oh no no no no  actually i left TI um i had basically set my sights to leave TI when they announced there would be no salary increases in ninety one
+Hypothesis: I stayed despite the lack of salary raises.",contradiction
+216,"Premise: Instead of walking away from China, American Christians should be rushing in.
+Hypothesis: American Christians are rushing to China.",contradiction
+217,"Premise: A problem arises when the factors the patient wants to work on are not the same ones the provider thinks are most important or is most prepared to deal with.
+Hypothesis: When the patient and doctor can not see eye to eye, then the outcome is not effective.",neutral
+218,"Premise: She sure was the pluckiest little girl  "" But suddenly something seemed to crack in Tommy's brain.
+Hypothesis: Tommy's brain was not normal.",entailment
+219,"Premise: First opened in 1831, it reopened in 2000 after a renovation resuscitated much of its historic character.
+Hypothesis: It was actually closed in 1938.",neutral
+220,"Premise: Yeah i noticed my van has a uh a button on the temperature gauge that you can switch between centigrade and fahrenheit
+Hypothesis: I noticed that my van has a button on the temperature gauge that lets you switch between centigrade and Fahrenheit.",entailment
+221,"Premise: Another annual highlight is the two-week O-Mizu-tori Festival at Nara's Nigatsudo Temple, one of Todaiji's subtemples.
+Hypothesis: The O-Mizu-tori Festival is the most minor festival of the year.  ",neutral
+222,"Premise: that's that's where i'm from  so
+Hypothesis: Yeah, I was born there in LA",neutral
+223,"Premise:  And maybe, he thought, they'd overlooked the obvious in their own system.
+Hypothesis: He was certain that this system was carefully thought out in every aspect.",contradiction
+224,"Premise: In that system, users could file electronic comments.
+Hypothesis: In that system, users could not file electronic comments.",contradiction
+225,"Premise: Therefore, EPA decided in 1992 to launch the National Environmental Goals Project, a long-range planning initiative under which it would involve its stakeholders in developing measurable goals for EPA to pursue in improving the quality of the nation's environment.
+Hypothesis:  EPA, in 1999 launched the National Environmental Goals Project",contradiction
+226,"Premise: you know i mean there there were times when he was like he'd be running with a gun or whatever he didn't look like a cop when he did it and i was so impressed with that because
+Hypothesis: Sometimes he would be jogging with a weapon or something.",entailment
+227,"Premise: The council helps homeless people get food and clothing, enter drug and alcohol treatment and employment programs and find housing.
+Hypothesis: The council provides many services to the homeless.",entailment
+228,"Premise: what this person had done ten years ago the brutality of their crime exactly exactly
+Hypothesis: This person committed their crime less than two years ago.",contradiction
+229,"Premise: That's the headline that didn't run in Sunday's papers, suggesting that, contrary to many News Quiz responses, Clinton's portrayal as prancing national satyr is ended.
+Hypothesis: Clinton has been portrayed as a nation satyr, but not anymore. ",entailment
+230,"Premise: oh my goodness that's an awful lot
+Hypothesis: Holy crap thats a lot of dead penguins. ",neutral
+231,"Premise: Listening to Bradley's equivocal remarks on school vouchers, and looking at the sliding scale of subsidies and tax breaks he proposes for health insurance, you get the feeling he's rather sympathetic toward solutions that take account of market dynamics.
+Hypothesis: You get the feeling that Bradley was speaking to a room full of business executives.",neutral
+232,"Premise: Trust or not, I suppose we will have to rely on each other all the same.'
+Hypothesis: I guess we have to depend on each other to stay alive.",neutral
+233,"Premise:  ""Because you can put back the sky.
+Hypothesis: Because no one, not even you, can put the sky back.",contradiction
+234,"Premise: maybe litigating circumstances or something like that whereas maybe the judge does just doesn't care you committed this crime so i'm just going to throw the book at you whereas the jury may have a little
+Hypothesis: The judge always cares what crimes you have done.  ",contradiction
+235,"Premise: The highlights of the Selaml??k include the vast Baccarat and Bohemian crystal chandeliers, 36 in all, and the crystal balustrade of the main staircase, the sultan's marble and alabaster bathroom, two huge bearskins (a gift from the Tsar of Russia), Syvres vases, Gobelin tapestries and carpets, and the vast bed used by the giant sultan, Abdul Aziz.
+Hypothesis: There are over thirty crystal chandeliers at the Selaml??k.",entailment
+236,"Premise: oh yeah i'm sure i would think they would talk about people who are already registered and and uh you know the ones that are on the rolls already you know
+Hypothesis: I would think they would talk about people who already recorded and go around and vote everywhere else.",neutral
+237,"Premise: Once conjured, it throws its looming shadow over the unworthy and undeserving who dare trespass.
+Hypothesis: Once brought up, it affects anyone who encroaches.",entailment
+238,"Premise: Jon would not hold back the blow.
+Hypothesis: Jon wasn't going to hold back the blow.",entailment
+239,"Premise: he was very good for Lubbock when he came to he did you know it was the same kind of thing he he he had a lot of good results
+Hypothesis: He was not very good for Lubbock.",contradiction
+240,"Premise: to um-hum oh i see
+Hypothesis: I understand.",entailment
+241,"Premise: Avid golfers should also consider the option of accommodations at a Golf Hotel. 
+Hypothesis: A Golf Hotel may be attractive for some golfers.",entailment
+242,"Premise: Yet, unlike Le Carre, Gallant does not believe in plot, or in speculating on the meaning of her stories.
+Hypothesis: Le Carre does not follow the pattern of plot and deep meaning.",entailment
+243,"Premise: The Carthaginians also carried out lead mining and continued to be of significance up until this century.
+Hypothesis: Carthaginians have avoided lead mining due to the risks.",contradiction
+244,"Premise: But we are working together quite nicely contrary to what the other side issue is.
+Hypothesis: We don't work together well, no matter what the issue is.",contradiction
+245,"Premise: we also managed to land in a school that uh they decided to build one big rectangular building and then not have any walls for the classroom and so it gets a little noisy it's a little hard to keep the kids that quiet from one class to the next and they can't really
+Hypothesis: We landed in a school that was very quiet.",contradiction
+246,"Premise: Rather, it is meant to suggest that reorganizations of government agencies frequently encounter start-up problems and unanticipated consequences that result from the consolidations are unlikely to fully overcome obstacles and challenges, and may require additional modifications in the future to effectively achieve our collective goals for defending the country against terrorism.
+Hypothesis: Reorganization of government agencies often fail.",neutral
+247,"Premise: yeah it's uh i don't do you have little kids or what
+Hypothesis: It doesn't matter if you have kids or not.",contradiction
+248,"Premise: Only when Hanson looked over toward the ground was he fully conscious of the speed they were making.
+Hypothesis: The ground was zooming past them at blinding speeds.",neutral
+249,"Premise: To create a total cost function, we use FY 1999 U.S.
+Hypothesis: We use 1959's data to create a total cost function.",contradiction
+250,"Premise: Another has the war spreading to Macedonia, where ethnic Albanians would come to the support of their fellows in Kosovo.
+Hypothesis: A war will spread to Macedonia within the next year.",neutral
+251,"Premise: that's too simple
+Hypothesis: That is much too difficult. ",contradiction
+252,"Premise: The first of Grenewald's painted panels depicts on one side the conversion and temptation of Anthony and on the other the birth of Jesus and a chorus of angels.
+Hypothesis: You can view the birth of Jesus and Antony's conversion on Grenewald's painted panels.",entailment
+253,"Premise: This can make it difficult to standardize interventions.
+Hypothesis: It is not difficult to standardize interventions.",contradiction
+254,"Premise: On the plus side, the reforms will increase federal money for child care by more than $600 million a year.
+Hypothesis: The reforms increased federal money for daycare.",entailment
+255,"Premise: yeah my mother has made similar statements that she doesn't want to become a burden to the family you know just put me out to pasture or shoot me or something you know  there are the lines that come from her and uh
+Hypothesis: My mother has said the same type of crazy things.",neutral
+256,"Premise: Precisely. 
+Hypothesis: Absolutely.",entailment
+257,"Premise: Because France has a uniform quality of delivery, its postal density differences are much greater.
+Hypothesis: France's postal service is amazing all over the country.",neutral
+258,"Premise: The chain wielder drew back and began to swing the chain again in large overhead arcs that made the whole crowd duck.
+Hypothesis: The crowd feared they would get hit by his chain.",neutral
+259,"Premise: um i i look at myself and i have three sisters there's four daughters in the family i look at myself compared to my sisters' families
+Hypothesis: I compare myself to my sister's families and the daughters.",entailment
+260,"Premise: Mr. Brown? hazarded Tommy.
+Hypothesis: Mrs. White? Hazarded Tommy.",contradiction
+261,"Premise: Since the sacking of the Temple and their banishment in a.d. 70, Jews from all over the world have come here to weep and wail at the loss of the House of God and pray for the restitution of Jerusalem to the Jewish people.
+Hypothesis: After the Temple was sacked in 70 A.D., the Jewish people left this place, and few have ever returned.",contradiction
+262,"Premise: Spur R that's a new one to me. 
+Hypothesis: Spur R is new to him.",entailment
+263,"Premise: When the kid had enough, which normally happened in the evening, he would go to school for about two hours.
+Hypothesis: The kid normally went to school in the evening.",entailment
+264,"Premise: H'm. The lawyer rose, and paced slowly up and down.
+Hypothesis: The lawyer remained seated.",contradiction
+265,"Premise: Vrenna looked nervous, taking a step back.
+Hypothesis: Vrenna look nervous while taking a step back.",entailment
+266,"Premise: Sheppard, Time ). Skeptics renew old attacks on sociobiology's all-encompassing view of human nature.
+Hypothesis: Skeptics leave the old attacks out of it.",contradiction
+267,"Premise: The YMCA Auditorium, on King David Street. 02-624 7281), produces an entertaining song-and-dance show on Monday, Tuesday, and Saturday evenings; the Khan Theatre, in Remez Square, near the railway station. 02-671 8281), stages regular folklore shows in an old caravanserai, as well as hosting a theatre and the city's one and only nightclub; the Kiryat Anavim Kibbutz Hotel (11km/7 miles out of town; tel. 02-534 8999) hosts an enjoyable evening of dance every Friday with music of the 1960s.
+Hypothesis: There are no nightclubs to be found in the city.",contradiction
+268,"Premise: i love that album
+Hypothesis: I don't like that album whatsoever.",contradiction
+269,"Premise: Well done, Scott!
+Hypothesis: Bad, Scott.",contradiction
+270,"Premise:  Whether you take your tennis seriously or just like to hit a ball around, be careful of the midday sun.
+Hypothesis: The midday sun should be monitored while you're out playing tennis.",entailment
+271,"Premise: It is increasingly an at-home experience, increasingly private, increasingly personal.
+Hypothesis: An at-home experience would be much more public and less personal than one on a crowded street. ",contradiction
+272,"Premise: During the conference, the steering committee modified those recommendations, and they were distributed to attendees for general discussion.
+Hypothesis: Nothing was modified.",contradiction
+273,"Premise: It was a simple and effective method of getting her out of the way for the time being.
+Hypothesis: We knew how to keep her away for awhile.",entailment
+274,"Premise: European literature was widely studied.
+Hypothesis: European literature is still a popular subject today.",neutral
+275,"Premise: 11 Electricity generating facilities often plan the connection to occur during planned outages to avoid additional downtime.
+Hypothesis: Each Agency works alone and refuse to cooperate with other agencies. ",contradiction
+276,"Premise: and uh essentially the cafeteria plans are programs where the company makes available a a different uh uh different packages of benefits you you know you can pick the kind of insurance you want and the kind of dental coverage and the kind of vacation policy you want an and all of these different things and you pick the ones that you want as long as the total cost to the company essentially the total cost to the company fits you know within their guidelines so every employee gets the same dollar amount of benefits but they can pick them from different whatever is most important to them
+Hypothesis: The company has a standard package for all their employees, pre-picked by executives so each employee receives the exact same combination of benefits in order to keep things simple. ",contradiction
+277,"Premise: Didn't seem much point in lying.
+Hypothesis: Everyone was prepared to tell the truth. ",neutral
+278,"Premise: In addition, the specific key conditions and strategies described in this guide will provide insight when considering areas of future study.
+Hypothesis: This guide was compiled by a group of highly qualified scientists.",neutral
+279,"Premise: okay what do you usually wear to work
+Hypothesis: Wha is the dress code at your work?",neutral
+280,"Premise: The Foundation administers the Interest on Lawyers' Trust Accounts (IOLTA) fund, the Basic Civil Legal Services (BCLS) fund and the Crime Victims Civil Legal Services (CVCLS) fund.
+Hypothesis: The Foundation has oversight on three funds.",entailment
+281,"Premise: and that's what we're going to talk about okay and uh uh okay where do you work Karen
+Hypothesis: Do you enjoy your work, Karen?",neutral
+282,"Premise: Edinburgh's population grew fast between 1500 and 1650, and a maze of tall, unsanitary tenements sprouted along the spine of the High Street.
+Hypothesis: Many people died between 1500 and 1650 as a result of the massive population growth in Edinburgh and the resulting maze of tall, unsanitary tenements sprouting along the spine of the High Street. ",neutral
+283,"Premise: that could be it  could be it
+Hypothesis: No, that couldn't be.",contradiction
+284,"Premise: The large man cried out and the smaller one cursed.
+Hypothesis: The bigger man yelled while the smaller man swore.",entailment
+285,"Premise: Juan Gonzalez yeah he looks to be a a up and coming uh performer
+Hypothesis: Juan Gonzalez has been a terrible performer so far.",contradiction
+286,"Premise: He may not survive, said the Patient by the Window, who knew The Sleeper a little, because he had been sharing the room with him for the already mentioned three months.
+Hypothesis: The patient had been sharing a room for three months",entailment
+287,"Premise: No one seems to mind a nice pre-written Shakespeare sonnet, and that's why I'm going to send one out just for you.
+Hypothesis: Everyone hates pre-written Shakespeare sonnets.",contradiction
+288,"Premise: rap yeah well i i don't really have anything against rap music i do the one thing i do object to about rap music is is it
+Hypothesis: It's not that I dislike Rap, but maybe if it had less vulgarity more people would listen to it.",neutral
+289,"Premise: The greatest events and achievements of the past 1,000 years are reviewed, including the miraculous growth of prosperity since 1750, the persistence of the city, the emancipation of women, the rise of the law, and the invention of limited liability (the key to the rise of equity corporations).
+Hypothesis: The greatest events/achievements were reviewed by writers, professors and historians.",neutral
+290,"Premise: to to get them on their feet because otherwise what you're doing is you're letting people in and you're you're dooming them to being underclass people
+Hypothesis: You have to help them out after you let them in, or else they're screwed.",entailment
+291,"Premise: In 1958, 4 percent of white Americans approved of interracial marriages.
+Hypothesis: Most people used to support interracial marriage.",contradiction
+292,"Premise: Race fans fill the 107,000-seat facility for NASCAR events like the Las Vegas 300, Winston West, and Craftsman Truck races, as well as the IRL Las Vegas 500.
+Hypothesis: The entire stadium is filled with race fans at NASCAR events such as the Las Vegas 300, Winston West, and more.",entailment
+293,"Premise: Several of the assumptions used tend to provide conservative estimates of the benefit of running surpluses or lower deficits and of the harm of increasing deficits.
+Hypothesis: Benefits include higher revenue earned per quarter and lower delivery costs.",neutral
+294,"Premise: His hand held onto his flank where he had tied a wide strip of dark cloth, growing darker as Jon watched.
+Hypothesis: He had no need of a cloth wrapped around his flank.",contradiction
+295,"Premise: i try to do as much as i can on that on our newer one uh uh mini vans it's all electronic and computers and everything in it
+Hypothesis: Our mini van has computers and electronic component.",entailment
+296,"Premise: and uh i just really enjoy it i guess i enjoy watching guys when they were very first starting out playing here and then seeing them a year or two later as as stars in the majors
+Hypothesis: Those guys started out as majors but got worse.",contradiction
+297,"Premise: As Van Buren knew, parties are inherently democratic, the most effective way of organizing otherwise powerless individuals.
+Hypothesis: Van Buren was running for president.",neutral
+298,"Premise: He only came here because I told him I heard the thunder from here.
+Hypothesis: He is terribly afraid of the thunder.",neutral
+299,"Premise: You can buy a single blue-and-white tile, an address plaque for your house, or an entire set of plates.
+Hypothesis: Plates, house number plaques, and individual tiles may be looked at but not purchased.",contradiction
+300,"Premise: An accompanying review raves about Amistad (though the magazine inexplicably calls it controversial).
+Hypothesis: He is definitely not under arrest. ",contradiction
+301,"Premise: It's a combination of groupies and the rock press both serving to inflate the egos of these guys.
+Hypothesis: The rock stars have huge egos and bad tempers.",neutral
+302,"Premise: These are the  Most nominees are confirmed smoothly.
+Hypothesis: Nominees are usually confirmed smoothly.",entailment
+303,"Premise: i've got a i've got a two i've got a two year old who's now getting  i'm getting well well versed in in kiddy music
+Hypothesis: I don't listen to any kiddy music.",contradiction
+304,"Premise: The Romans invaded Scotland in a.d. 78 84, where they met a fierce group called the Picts, whom they drove north.
+Hypothesis: The Picts were driven north by the Romans because the Romans feared rebellion.",neutral
+305,"Premise: Giza was not the only location where pyramids were built there are many sites scattered throughout the western desert and it was not the place where pyramid-building started.
+Hypothesis: Giza influenced the other places to build their pyramids also.",neutral
+306,"Premise: The Commission believed these actions were needed to provide greater access to telephones by persons with hearing disabilities, as required by the Hearing Aid Compatibility Act of 1988, 47 U.S.C.
+Hypothesis: The hearing aid compatibility act of 1988 requires greater access to telephones by people with disabilities of hearing.",entailment
+307,"Premise: Court of Appeals panel in Philadelphia to throw out the law, calling it profoundly repugnant.
+Hypothesis: Court of Appeals panel in Philadelphia to throw out their judges.",contradiction
+308,"Premise: After a hearty meal, the girl felt inclined to pooh-pooh her fancies of half an hour before.
+Hypothesis: She regretted the things she had wanted a half an hour earlier.",neutral
+309,"Premise: yes i have a one a five year old daughter
+Hypothesis: I have a five year old son.",contradiction
+310,"Premise: Women dressed in black chat outside their houses; the men gather in shady squares to discuss the day's news and play p??tanque, or boules.
+Hypothesis: The men gather to discuss the news, and the women dress in black to chat.",entailment
+311,"Premise: Winston Churchill didn't want any Indian independence and so it was probably as well for India that he was defeated by Attlee's Labor Party in 1945.
+Hypothesis: India was lucky that Winston Churchill was defeated by Attlee's Labor Party because he didn't want Indian independence.",entailment
+312,"Premise: The Society for the Protection of Nature in Israel (SPNI) offers environmental hiking tours nationwide in dramatic settings such as the Samaria Desert, Wadi Qelt, the Dead Sea, Galilee and the Golan, and around Eilat.
+Hypothesis: The Dead Sea is closed to all visitors due to toxic emissions.",contradiction
+313,"Premise: yeah well i'll tell you some of the horror stories that the the male populace have done to the women i i recall a a uh coed when i was in college some of the guys got together and decided to tell this poor girl the way to change her oil was to uh they showed her where to take it out and she did that successfully and then showed her how to uh put it back in but on putting it back in they had her put in they had her put in all four or five quarts of this oil with an eyedropper down the dip stick
+Hypothesis: The men decided to prank a woman by teaching her to change her car's oil with an eye dropper.",entailment
+314,"Premise: As a bonus, a cap would bring the income tax closer to being equitable, in the true sense of the word.
+Hypothesis: A cap would make the income tax more equitable, but also cause a lot of legal issues.",neutral
+315,"Premise: it's nice to have
+Hypothesis: It was not nice at all.",contradiction
+316,"Premise: There's a lot of interesting economics in that question, and if I manage to sort it out, I'll let you know.
+Hypothesis: My promise to let you know is a meaningless gesture meant to flatter you.",neutral
+317,"Premise: Its two cinemas present a varied program of new international and archival films.
+Hypothesis: The two cinemas are a great place to catch a film, whether your taste is new international or archival.",neutral
+318,"Premise: A short bus ride delivers you to the Kyoto National Museum, which houses the country's largest collection of Japanese sculpture and painting as well as weapons, traditional armor, and ten centuries of costume including some dazzling noh theater costumes with masks.
+Hypothesis: The only thing not included in the collection are theater costumes with masks.",contradiction
+319,"Premise: Tomb artifacts give us a great deal of information about daily life in Egypt.
+Hypothesis: We learn a lot about Egyptian daily life from artifacts found in tombs.",entailment
+320,"Premise: The oldest part of the palace, the James V Tower (once called the Great Tower), is for many the highlight of the tour.
+Hypothesis: Many people consider the James V Tower the best part of the tour.",entailment
+321,"Premise: uh-huh that's right car batteries
+Hypothesis: No, they're not car batteries, I'm not sure what they're called. ",contradiction
+322,"Premise: Susan, he thought again and again nothing.
+Hypothesis: He thought of so many things at once .",contradiction
+323,"Premise: The recent union with England was the inspiration for street names such as Rose and Thistle. 
+Hypothesis: The English have very beautiful names.",neutral
+324,"Premise: Next to the museum, behind a gate (opened to anyone who knocks), is the Old Protestant Cemetery.
+Hypothesis: The Old Protestant Cemetery is protected by a gate.",entailment
+325,"Premise: okay um i like to do uh weight training and and cycling and just walking uh and swimming i i used to do a lot of basketball and running and volleyball until i had some knee surgery last fall and the doctor said that running and jumping isn't real good for my knee anymore so i had to kind of change my lifestyle a little bit
+Hypothesis: I still play a lot of basketball after my knee surgery.",contradiction
+326,"Premise: to yeah to carry it out it sort of takes the justice out of the justice system
+Hypothesis: To carry it out makes it seem like the justice system is finally working.",contradiction
+327,"Premise: Grossness is not a good objection.
+Hypothesis: Using grossness is not a valid form of objection.",entailment
+328,"Premise: It describes the reasons for the proposed action, and its objectives and legal basis.
+Hypothesis: The proposed action should help us out.",neutral
+329,"Premise: There are several museums in Avignon, the most exciting of which is the newest.
+Hypothesis: Out of all the museums in Avignon, the most recent one is the most exciting.",entailment
+330,"Premise: does he tell it in narrative form or in third person how does he present it
+Hypothesis: He definitely uses narrative form all the time, I know already.",contradiction
+331,"Premise: Certain of the collections have been approved by OMB and were issued control number 0915-0184.
+Hypothesis: There were very few collections approved by the OMB.  ",neutral
+332,"Premise: This notion lives on in our language today.
+Hypothesis: Our language today bears no resemblance to any past notions.",contradiction
+333,"Premise: After the 1692 earthquake that devastated the city and buried much of its wealth, Port Royal never fully recovered.
+Hypothesis: The 1692 earthquake came as a surprise to everyone. ",neutral
+334,"Premise: Come on down!
+Hypothesis: Come and pay us a visit sometime.",entailment
+335,"Premise: Everyone asks why does she stay in the abusive situation, Youngerman said. 
+Hypothesis: Nobody is certain why he would stay in a situation like this.",entailment
+336,"Premise: The six foot-soldiers drew swords and axes and spears.
+Hypothesis: The soldiers drew their weapons for battle.",neutral
+337,"Premise: They prevent high-cost mailers from being cross subsidized by low-cost mailers, and they
+Hypothesis: High cost mailers are subsidized by low cost ones ",contradiction
+338,"Premise: For the public good
+Hypothesis: For the benefit of the public",entailment
+339,"Premise: Enclosed is our assessment of the agencies' compliance with the procedural steps required by section 801(a)(1)(B)(i) through (iv) of title 5 with respect to the rule.
+Hypothesis: Our assessment of the agencies' compliance with the procedural steps required by section 801(a)(1)(B)(i) through (iv) of tile 5 with respect for the rule is enclosed to this.",entailment
+340,"Premise: Other individuals and organizations that we contacted, including a public interest group, a business group, and an academician, also cited concerns about a onesizefitsall approach being applied to agencies with vastly different missions.
+Hypothesis: A business group pointed out issues with the onesizefitsall tactic being used by different agencies.",entailment
+341,"Premise: The first place in Japan to call itself a bar opened in Asakusa in 1880 (and is still doing business); the first movie theater opened here in 1903.
+Hypothesis: About 50 people visited the bar in Asakusa when it first opened.",neutral
+342,"Premise: This does a great disservice to the Greek musical tradition, which is rich, varied and goes back for hundreds of years.
+Hypothesis: The Greek musical tradition goes back two weeks. ",contradiction
+343,"Premise: Historical Inaccuracy
+Hypothesis: Inaccurate History because of miscommunication ",neutral
+344,"Premise: In fact, although all other nominees are welcome, Slate 's software-development team--through a simple iterative program--has already cast 1.8 million votes for Bill Gates.
+Hypothesis: Slate's software team voted for Smith.",contradiction
+345,"Premise: No one knows whether even one of the initiatives can pass.
+Hypothesis: No one knew if a single initiative could pass. ",entailment
+346,"Premise: The mare looked at him as she grazed.
+Hypothesis: The mare had nothing to eat.",contradiction
+347,"Premise: You get one mistake.
+Hypothesis: You get one mistake before your hand is cut off.",neutral
+348,"Premise: Eilat is the place for water activities.
+Hypothesis: There are no water activities in Eilat.",contradiction
+349,"Premise: Nineteenth-century travellers sped through neighbouring Crevillente in fear of the notorious bandit James the Bearded.
+Hypothesis: James the Bearded lived in the sixteenth century.",contradiction
+350,"Premise: It provides the evidence, of whatever type and detail, that is needed for assessing this claim.
+Hypothesis: It provides evidence needed for assessing this claim",entailment
+351,"Premise: A total of 14 completed evaluations were received from participants.
+Hypothesis: The number of evaluations was quite small.",neutral
+352,"Premise: I almost always feel a very strong attraction to doughnuts.
+Hypothesis: I hate eating doughnuts and throw them in the trash.",contradiction
+353,"Premise: my folks didn't my folks i'm not even sure if we had one when i was really little that may be why but they probably didn't have a TV until i got to be you know grade school or so
+Hypothesis: We were one of the first ones in our family to buy a TV set.",contradiction
+354,"Premise: We had a pleasant luncheon, and as we drove away Lawrence suggested that we should return by Tadminster, which was barely a mile out of our way, and pay a visit to Cynthia in her dispensary. 
+Hypothesis: We would like to visit Cynthia on our next trip, but her dispensary is too far out of the way.",contradiction
+355,"Premise: 'It's the pain meds, see.
+Hypothesis: The pain medication is making me feel terrible.",neutral
+356,"Premise: According to VA, this rulemaking action does not impose unfunded mandates under the Unfunded Mandates Reform Act of 1995.
+Hypothesis: The rule making action imposes unfunded mandates. ",contradiction
+357,"Premise: He and Broker later began the Mediation Center in Savannah, with both serving on the nonprofit's first board.
+Hypothesis: The Mediation Center in Savannah is a nonprofit organization.",entailment
+358,"Premise: No, he waits until he has had a violent quarrel with her, of which the whole household is cognisant, and which naturally directs their suspicions upon him. 
+Hypothesis: He was clear and free from suspicion. ",contradiction
+359,"Premise: i i well i hope to see employer based you know helping out you know child uh care centers at the place of employment and and things like that that will help out
+Hypothesis: If employers offered childcare on-sight, that would help a lot. ",entailment
+360,"Premise: Be quick before I change my mind and think of something worse!""  Dave didn't see what he did this time, but there was a puff of flame in front of his eyes.
+Hypothesis: He was a wizard with power over all flames. ",neutral
+361,"Premise: She was very silent, hardly opening her lips, and yet in some queer way I felt that the great strength of her personality was dominating us all. 
+Hypothesis: She couldn't stay quiet and panicked greatly.",contradiction
+362,"Premise: but but uh you know i mean the real world doesn't work like that or at least it shouldn't but it seems to in government
+Hypothesis: They're horribly inefficient and prioritize special interests.",neutral
+363,"Premise: Three days later another atomic bomb devastated the southern port of Nagasaki.
+Hypothesis: An atomic bomb hit Nagasaki.",entailment
+364,"Premise: A relief to turn from these pictures, which seem to prefigure our own sexually anxious age, to such comical dreams of resurrection as Spencer's exuberant The Dustman (1934), in which the Cookham garbage man has returned from the dead and is cradled like a baby in his wife's arms, while neighborhood children offer gifts of empty cans and other trash.
+Hypothesis: The Dustman was made in 1993.",contradiction
+365,"Premise: He has interviewed other lawyers, alternate jurors, experts.
+Hypothesis: He has only interviewed one person.",contradiction
+366,"Premise: The dance, something like the English maypole dance, is performed during the fiesta in Es Migjorn Gran.
+Hypothesis: The children perform the dance during the fiesta.",neutral
+367,"Premise: More than most papers, USA Today steps aside and delivers the experience that Dewey considered necessary to that convergence on  statistics, direct lengthy quotations, complete box scores.
+Hypothesis: USA Today gives an experience that others do not, one that Dewy considers necessary to that of convergence upon statistics, long quotes and scores. ",entailment
+368,"Premise: Nazaret Ilit, on a hill above the city, is a new Jewish suburb.
+Hypothesis: Nazaret Ilit was built in the early 1970s.",neutral
+369,"Premise: Dismantled in 1969 due to redevelopment, Angel's Flight has been reconstructed and plans to activate the original cable cars next year.
+Hypothesis: The location has been rebuilt to allow for a more pleasurable viewing experience.",neutral
+370,"Premise: Participants also believed that the PCAOB also needs to evaluate the events that have lead to the lack of public confidence in the markets and take a fresh look going forward.
+Hypothesis: Some people believe that the PCAOB should take a fresh look forward.",entailment
+371,"Premise: I'm mainly a history person.
+Hypothesis: I like history, not science.",neutral
+372,"Premise: Some of butchest guys around go all atwitter when ladies ask them about their guns.
+Hypothesis: Tough guys act feminine on twitter because they are lacking something with the ladies",neutral
+373,"Premise: Bush heard the word philosopher, seized on a related concept--Christ--and simply ignored the other key elements in the question, like political and identify with and why.
+Hypothesis: Bush talked about a lot of other philosophers in his speech.",contradiction
+374,"Premise: Pest control will be dealt with in a future episode.
+Hypothesis: Pest control has featured in previous episodes.",neutral
+375,"Premise: 4 In our view, the information that GAO seeks is not protected by Executive Privilege.
+Hypothesis: The information that GAO seeks is protected under the Executive Privilege.",contradiction
+376,"Premise: obviously you have kids
+Hypothesis: Of course you are a parent",entailment
+377,"Premise: How-ever, motivation can facilitate treatment.
+Hypothesis: However motivation can lead to further injury and should be prevented.",contradiction
+378,"Premise: And, anyway, I'm not at all sure that it isn't actionable blackmail, you know.""
+Hypothesis: That might be actionable blackmail because of the phrases used.",neutral
+379,"Premise: The Filippo Strozzi Chapel (right of the altar) is decorated with Filippino Lippi's frescoes of saints Philip and John, rich in color and anecdotal In the monumental Exorcism of Demons in the Temple of Mars, notice the three bystanders holding their noses at the smell.
+Hypothesis: Saints Philip and John are featured on the frescoes in the Filippo Strozzi Chapel.",entailment
+380,"Premise: Moreover, after Gerth's article the White House released a series of documents detailing the decision.
+Hypothesis: The White House has done nothing since Gerth's article.",contradiction
+381,"Premise: i know i i've been seeing all these weird things they send in and uh i says gee i ought to get that
+Hypothesis: They don't send anything in.",contradiction
+382,"Premise: The progressive Moor's treatise on wounds, inflammations, and tumours may sound hair-raising today, but his treatment of broken bones by padded splints, traction, and bitumen casts was actually centuries ahead of its time.
+Hypothesis: The Moor's treatment of broken bones was far behind his time.",contradiction
+383,"Premise: There are bars of all kinds everywhere, some local, but more often than not with French, British, Scandinavian, and German d??cors, accents, and beers.
+Hypothesis: They only have one bar.",contradiction
+384,"Premise: yeah from everywhere too not just from Mexico you know just everywhere
+Hypothesis: It's only source is Mexico.",contradiction
+385,"Premise: Young owns four of the 19 best-ever seasons for a quarterback, and is the highest-rated passer of all time.
+Hypothesis: Young has four of the 19-best ever seasons for a quarterback and is the best-rated passer ever.",entailment
+386,"Premise: i have um uh it's not really a budget package but a a financial tracking package you know for my checkbook and stuff like that
+Hypothesis: I have some financial tracking package used for my checkbook and things similar.",entailment
+387,"Premise: Across the river, 250 dealers are concentrated in the Louvre des Antiquaires, by the place du Palais-Royal, closed Monday (and Sunday in July and August), and other antiques dealers are scattered around Les Halles.
+Hypothesis: Most antiques dealers find that they get more sales at the Louvre des Antiquaires.",neutral
+388,"Premise: So the Bill Clinton paradox--his reckless pursuit of sex and his timid clinging to office--is indeed no paradox.
+Hypothesis: Bill Clinton's pursuit of sex is damaging to his presidency. ",neutral
+389,"Premise: so what's the point in voting for these people i i mean it you know i get just as good of results as if i through darts at a board
+Hypothesis: I am always positive that they will give us the great results they promised.",contradiction
+390,"Premise: or you can force them to do it if you know
+Hypothesis: You can force them if you know you need to because they are too weak to stay at home.",neutral
+391,"Premise: The magnificently proportioned 13th-century Cathedrale Notre-Dame was badly damaged in World War I, but it has been well restored and it remains one of the country's greatest Gothic edifices.
+Hypothesis: The Cathedrale Notre-Dame was damaged from the bombing runs of Germany.",neutral
+392,"Premise: Rock goes beyond Eddie [Murphy], beyond liberal guilt.
+Hypothesis: Rock pushes beyond liberal guilt and Eddie Murphy.",entailment
+393,"Premise: The gardens, once a favorite spot for aristocratic duels, now serve as a pleasant children's playground.
+Hypothesis: The children take part in aristocratic duels. ",contradiction
+394,"Premise: The specific key conditions and strategies described in this guide can be used as suggestions for federal CIOs to apply or adapt to their environments, as appropriate.
+Hypothesis: The specific key conditions the guide describes are good for federal CIOs.",entailment
+395,"Premise: they're supposed to bring you good luck or good or good finances
+Hypothesis: It is said that they bring you good luck, good fortune and great love.",neutral
+396,"Premise: I mounted accordingly. 
+Hypothesis: I mounted the horse properly.",neutral
+397,"Premise: Targets directly linked to organizational results
+Hypothesis: Targets influence organizational results.",neutral
+398,"Premise: And Johnny joined Howard when they raised that Confederate troop here.
+Hypothesis: Johnny and Howard don't know each other.",contradiction
+399,"Premise:  He tried to put it out of his mind as he drew Nema to him.
+Hypothesis: He though about it more as he pushed Nema aside.",contradiction
+400,"Premise: yeah yeah It was in the it was in the summer at at at at the time but you think they would pay more attention to what was going on that they'd see this guy had taken off his clothes
+Hypothesis: It was in the middle of winter.",contradiction
+401,"Premise: Percentage of Taxable Payroll (2000-2075) 45 Figure 2.1:Gross National Saving as a Share of GDP (1960-2000) 50 Figure 2.2:Composition of Net National Saving (1960-2000) 51 Figure 2.3:International Trends in Gross National Saving (1960-1997) 54 Figure 3.1:Overview of Saving, Investment, Output, and Income
+Hypothesis: The figures relate to taxable income percentage.",contradiction
+402,"Premise: having a uh program work on me was the the Atari toot toot
+Hypothesis: The program did not work on me at all.",contradiction
+403,"Premise: The busy path running alongside the beach to Venice is a coveted track for bicyclists and rollerbladers, who either bring their own gear or rent from the numerous establishments nearby.
+Hypothesis: Bicyclists always have the right of way on the path.",neutral
+404,"Premise: so the rest live in one lives in Connecticut and a couple lives in Pittsburgh and one lives near DC so uh
+Hypothesis: They live in Connecticut, Pittsburg and near DC.",entailment
+405,"Premise: But instead of chairs, a large bar took up most of the available space.
+Hypothesis: The chairs took up most of the available space.",contradiction
+406,"Premise: okay well um we lived i grew up in San Antonio and i was used to the heat and i was used to what couldn't grow
+Hypothesis: It is really hot this time of year in San Antonio and the plants tend to not do well in the heat.",neutral
+407,"Premise: right right it's just it's just uh like a necessary evil i mean when we when our children were younger when they were like four years old three years old five years old we we just had Sesame Street and that was about it you know
+Hypothesis: Back then, Sesame Street was only shown on Saturdays.",neutral
+408,"Premise: In times of a downturn in the economy, they demonstrate a commitment by the full court, and by attorneys in Illinois, to assume responsibility for those unable to afford legal services and for those lawyers who need compassion and help.
+Hypothesis: Statistics show the Illinois program served an increase of 20% during the recent depression.",neutral
+409,"Premise: yeah they didn't and i'm not for sure what the deal is on him i think he's been hurt but he hadn't played he hadn't played in probably two months and i've i've gone to about three or four of their games and i don't even think he was on the sidelines so i i think he hurt his knee or something but he he definitely didn't turn out to be anything like he was supposed to so uh
+Hypothesis: He played the best he could, but I think he needs a bit more time off.",neutral
+410,"Premise: Tommy stopped Conrad's rush with a straight blow with his fist.
+Hypothesis: Tommy did not try to stop Conrad's rush at all.",contradiction
+411,"Premise: But you will not do it again."" There was a faint sound behind him, but, intoxicated with success, he did not turn his head.
+Hypothesis: He was too enveloped in his success to check the noise behind him.",entailment
+412,"Premise: Still, every now and then, a professor would have four genuine A students and only three A's to give out.
+Hypothesis: Even so, sometimes a professor could have four students who deserved A's but could only give A's to three of them.",entailment
+413,"Premise: I beg your pardon. A man's voice beside her made her start and turn.
+Hypothesis: She was expecting the man next to her to speak and wasn't surprised when he did. ",contradiction
+414,"Premise: Franco named as his successor the grandson of Alfonso XIII, who was enthroned as King Juan Carlos I when the dictator died in 1975.
+Hypothesis: King Juan Carlos I was named the successor to the throne by Franco in 1975.",entailment
+415,"Premise: it's an interesting interesting thing you want to do i how is Texas about keeping your children out of public schools do they allow it
+Hypothesis: Some states don't allow you to keep your students out of public school. ",neutral
+416,"Premise: i mean if a guy screws up you got to say okay you screwed up what do we do now and move on
+Hypothesis: If someone makes a mistake, you have to acknowledge the mistake, keep going and ask what do we do now.",entailment
+417,"Premise: I e-mailed all three galleries, asking them to explain the disparity in their prices.
+Hypothesis: I emailed the galleries to find out what time they were open.",contradiction
+418,"Premise: His vision narrowed as the pressure increased.
+Hypothesis: The pressure increased on the village.",entailment
+419,"Premise: Horse-drawn carriages ply the Corniche offering trips to Karnak, or a ride back to your hotel.
+Hypothesis: Horse drawn carriages are popular in Karnak.",entailment
+420,"Premise: There, he said. 
+Hypothesis: It's over, the trial has ended.",neutral
+421,"Premise: It was all stars and the sky was just getting sort of almost gray.
+Hypothesis: The sky was getting gray and there were stars.",entailment
+422,"Premise: This year, two of the state's legal giants responded.
+Hypothesis: This year have responded four of the state's legal giants.",contradiction
+423,"Premise: Is she your cousin?
+Hypothesis: She questioned whether she was your cousin.",entailment
+424,"Premise: Though I'd had a very different childhood from Kazin and approached Manhattan from a direction completely different from Kazin's Brownsville, I remembered vividly the sense of possibility the drive suggested.
+Hypothesis: I've been to Manhattan many times throughout my life.",neutral
+425,"Premise: absolutely and uh acting out because that is the way of getting attention
+Hypothesis: The only people that act out are inconsiderate.",contradiction
+426,"Premise: To honor the ram-headed god, Egyptians created a necropolis of mummified rams at the site, covering the animals' corpses with gold leaf.
+Hypothesis: The ram-headed god was pleased to be honored by the Egyptians.",neutral
+427,"Premise: The Thernstroms prescribe little to end the harms wrought by past injustices, or even to fight latent racism--except stopping affirmative action and kindred policies.
+Hypothesis: The Thernstroms are not invested in anti-racism efforts.",entailment
+428,"Premise: Only two of the eight islands of des Saintes are inhabited, and one, Terre-de-Bas, just barely.
+Hypothesis: All the islands of des Saintes used to be occupied, but most have moved to the mainland, and their descendants remain so. ",neutral
+429,"Premise: A story studies a block in the Lower East Side and concludes that rent control reduces the number of apartments, encourages landlord neglect, disproportionately benefits upper-middle-class renters, and dissuades developers from building new apartments.
+Hypothesis: According to some researchers, rent control damages landlords, renters and developers- but the situation changes from time to time.",neutral
+430,"Premise: Using the average bargaining labor cost, city delivery is 8 percent lower.
+Hypothesis: City delivery has gone down by 8 percent.",entailment
+431,"Premise: yeah yeah as he grows up he'll be even more and more too
+Hypothesis: Eventually, he will reach a ceiling and will grow no more.  ",neutral

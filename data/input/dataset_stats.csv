@@ -1,0 +1,15 @@
+Dataset Name,Rows,Labels,Avg. Chars,Med. Chars,Avg. Words,Med. Words,Min Words,Max Words
+AG News train,432,4,231.51,230.5,37.4,37.0,13,134
+AG News test,108,4,237.88,227.5,38.02,37.0,19,86
+MNLI train,432,3,191.9,176.0,32.04,29.0,4,139
+MNLI test,108,3,203.6,192.5,33.88,31.0,9,117
+Amazon Polarity train,432,2,407.14,350.0,74.56,65.5,14,182
+Amazon Polarity test,108,2,385.43,322.0,70.38,58.5,15,183
+TREC train,432,6,49.93,46.0,10.03,9.0,4,37
+TREC test,108,6,50.39,46.0,10.04,9.0,4,32
+Emotions train,20,4,60.2,47.5,11.85,9.0,5,25
+Emotions test,20,4,60.1,47.5,11.75,9.0,5,25
+MASSIVE train,540,18,62.11,59.0,12.08,12.0,7,21
+MASSIVE test,265,14,61.94,59.0,12.08,12.0,7,20
+YELP train,500,5,87.35,79.0,17.33,16.0,3,59
+YELP test,152,5,83.14,77.0,17.01,16.0,3,37

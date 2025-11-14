@@ -1,0 +1,217 @@
+id,example,label
+0,"Premise: He believed that the new system would improve the organization's ability to compete in the global marketplace.
+Hypothesis: The organization is competing in the global marketplace.",entailment
+1,"Premise: We were quite surprised to find that the program was not working.
+Hypothesis: The program was not working well.",entailment
+2,"Premise: ""I'm a pretty simple guy,"" says a 43-year-old guy who's a retired police officer. ""I've got a house, a wife, two kids, and a dog. I'm a family man. I'm not a criminal.""
+Hypothesis: The guy is a good guy.",not_entailment
+3,"Premise: The European Court of Human Rights in Strasbourg is responsible for the enforcement of the European Convention on Human Rights.
+Hypothesis: The European Court of Human Rights is responsible for the enforcement of the European Convention on Human Rights.",entailment
+4,"Premise: In 1619, a storm wrecked the English fleet and led to the execution of King James I.
+Hypothesis: The storm also led to the execution of the man who was his son.",not_entailment
+5,"Premise: ""I'm a woman,"" she said.
+Hypothesis: She is a woman.",entailment
+6,"Premise: He doesn't have a good memory.
+Hypothesis: He has a bad memory.",entailment
+7,"Premise: A list of key terms and definitions is provided in the Appendix.
+Hypothesis: A list of key terms and definitions is provided.",entailment
+8,"Premise: In this respect, the experience of reading a novel is very different from that of watching a movie.
+Hypothesis: Reading a novel is more difficult than watching a movie.",not_entailment
+9,"Premise: There are two options for taking the ferry: the first is to take the free shuttle bus from the ferry terminal to the centre of the city, and the second is to take the Metro to the city centre.
+Hypothesis: The free shuttle bus takes you to the centre of the city, and the Metro takes you to the city centre.",entailment
+10,"Premise: But it's a mistake to think that the federal government is the only source of power.
+Hypothesis: The federal government is not the only source of power.",entailment
+11,"Premise: I'm afraid I don't know, but I'll ask around.
+Hypothesis: Tommy was not sure if he knew.",not_entailment
+12,"Premise: He was no more than a young man, not yet twenty-five, with a long, slender, handsome face, regular features, and large, dark, restless eyes.
+Hypothesis: He was not yet twenty-five, but he was handsome.",entailment
+13,"Premise: The task force concluded that the number of days of school missed by students with asthma was probably less than the number of days missed by students with other medical problems.
+Hypothesis: Students with asthma miss fewer days of school than students with other medical problems.",not_entailment
+14,"Premise: ""I'm a star,"" he said.
+Hypothesis: He boasted about himself.",entailment
+15,"Premise: The moon was high in the sky, and the beach was deserted.
+Hypothesis: The beach was very quiet.",not_entailment
+16,"Premise: It's hard to believe that.
+Hypothesis: I think it's hard to believe that.",entailment
+17,"Premise: The movie is a ""B"" movie, but it's a very good one.
+Hypothesis: The movie is a good one.",entailment
+18,"Premise: A model of the ocean is more complex than a model of the atmosphere, but it is not as complex as a model of the whole Earth.
+Hypothesis: A model of the ocean is more complex than a model of the atmosphere.",entailment
+19,"Premise: You'll be there.
+Hypothesis: You will be there.",entailment
+20,"Premise: The President's Commission on Organized Crime, headed by Judge Edwin Meese III, issued a report in July 1987 that was highly critical of the Reagan administration's handling of organized crime.
+Hypothesis: The government can make many decisions.",not_entailment
+21,"Premise: That's the only way I can explain it.
+Hypothesis: I can't explain it any other way.",entailment
+22,"Premise: A notable feature of the ""Palladio Plan"" is the juxtaposition of the two main buildings in the center of the courtyard, which are of equal size and identical in style.
+Hypothesis: The two buildings are of equal size and identical in style.",entailment
+23,"Premise: The company was not just a large corporation but a corporation that embodied the values of the nation.
+Hypothesis: All large corporations have a culture that reflects the values of the nation.",not_entailment
+24,"Premise: He is the only one who can solve this problem.
+Hypothesis: There is no one else who can solve this problem.",entailment
+25,"Premise: This report provides the basis for the establishment of the IFC as a new organization to provide guidance and assistance to the Commission on Security and Cooperation in Europe.
+Hypothesis: The IFC was created to assist the Commission on Security and Cooperation in Europe.",entailment
+26,"Premise: The growth of the new global economy has created a demand for new, efficient, and environmentally sound technologies.
+Hypothesis: Some of these technologies are efficient and environmentally sound.",not_entailment
+27,"Premise: The other thing I noticed was that there was a lot of repetition in the language.
+Hypothesis: Repetition is not something that should be expected in language.",not_entailment
+28,"Premise: This would have been an extremely difficult task, even if the defendant had not attempted to conceal the extent of its actions.
+Hypothesis: It would have been difficult to prove that the defendant was not trying to hide something.",not_entailment
+29,"Premise: A number of books have been written about the museum's collections
+Hypothesis: There are many books about the museum's collections.",entailment
+30,"Premise: I have a new credit card.
+Hypothesis: You have a new credit card.",not_entailment
+31,"Premise: The room was a sea of black, except for the blue neon signs of the two sports bars on either side of the stage.
+Hypothesis: The room was a sea of blue neon signs.",not_entailment
+32,"Premise: The researchers say that the change in the body's use of fat is a sign of health.
+Hypothesis: The body's use of fat is a sign of health.",entailment
+33,"Premise: 'I'm OK with that.'
+Hypothesis: I am agreeable to that.",entailment
+34,"Premise: This is not to say that they are not useful.
+Hypothesis: Even though they are useful, they are not necessary.",not_entailment
+35,"Premise: 'Well, I think you're right.'
+Hypothesis: I agree with you.",entailment
+36,"Premise: This type of investment is particularly important for firms that have limited access to capital markets.
+Hypothesis: The ability to access capital markets is important for firms that have limited access to capital.",not_entailment
+37,"Premise: He said that he was not able to provide the exact amount of the funding, but that it was a significant amount.
+Hypothesis: It was a significant amount of money.",entailment
+38,"Premise: The next stage is to examine the explanatory structure, using the model to generate a series of testable hypotheses.
+Hypothesis: The explanatory structure is being examined.",entailment
+39,"Premise: The interplay of nature and culture is like a dance.
+Hypothesis: Nature and culture interact in a way that is rhythmic.",entailment
+40,"Premise: We are not the only ones who are suffering.
+Hypothesis: There are other people who are suffering too.",entailment
+41,"Premise: It was very quiet, the only sound was the scratching of the fire on the hearth.
+Hypothesis: The only sound was the sound of the fireplace.",entailment
+42,"Premise: In the 1990s, the total number of arrests in New York City for murder, rape, robbery, burglary, grand larceny, and auto theft all declined.
+Hypothesis: There were more arrests in the 1990s.",not_entailment
+43,"Premise: If we can agree that ""national"" means ""inhabited by people of the same race,"" then we can say that there are no national parks in Australia.
+Hypothesis: Australia has national parks.",not_entailment
+44,"Premise: On the Place de la Bastille, note the Hotel de Londres (at number 3), the Hotel de Bourbon (at number 7), and the Hotel de Bourgogne (at number 10).
+Hypothesis: The Hotel de Londres was built in the Place de la Bastille.",entailment
+45,"Premise: The truth is that he has no clue what he is talking about.
+Hypothesis: He is not smart.",not_entailment
+46,"Premise: It is one of the most sacred sites in Egypt, and has been visited by thousands of tourists.
+Hypothesis: Tourists visit the most sacred site in Egypt.",entailment
+47,"Premise: ""He [Mann] wrote a piece of journalism that is a landmark in American literature,"" says a former editor of the New York Times Book Review.
+Hypothesis: Mann's piece of journalism is a landmark in American literature.",entailment
+48,"Premise: For example, a review of studies of air pollution in cities in the United States and Europe indicates that in most cases, the risk of mortality from air pollution is about one-third of the risk of mortality from other causes.
+Hypothesis: The risk of mortality from air pollution is one-third of the risk of mortality from other causes.",not_entailment
+49,"Premise: To the contrary, the public is the most important stakeholder in the process.
+Hypothesis: The public is the most important stakeholder in the process.",entailment
+50,"Premise: Ceteris paribus, a firm's level of borrowing is negatively related to its level of investment.
+Hypothesis: A firm's level of investment is positively related to its level of borrowing.",not_entailment
+51,"Premise: For the next few days, the people of Chiang Mai will be in a festive mood, and in the evening the streets will be filled with firecrackers and fireworks.
+Hypothesis: The people of Chiang Mai are in a festive mood.",not_entailment
+52,"Premise: It's like I said before.
+Hypothesis: I said this before.",entailment
+53,"Premise: You can also see the evolution of the website as it has changed over time.
+Hypothesis: The website has been created to confuse the public.",not_entailment
+54,"Premise: It is important to remember that the whole point of the Cold War was to keep the world safe for democracy.
+Hypothesis: The whole point of the Cold War was to keep the world safe from communism.",not_entailment
+55,"Premise: As with many modern television programs, the camera's gaze is the storyteller's.
+Hypothesis: The camera's gaze is the storyteller's.",not_entailment
+56,"Premise: He saw a man walking towards him, his face set in a look of grim determination.
+Hypothesis: The man was determined to confront him.",not_entailment
+57,"Premise: ""I'll never get over you,"" he said, shaking his head.
+Hypothesis: He is heartbroken.",not_entailment
+58,"Premise: The first point is that a person should not drink alcohol.
+Hypothesis: Drinking alcohol is not good.",entailment
+59,"Premise: All the rooms in the mansion are filled with chandeliers.
+Hypothesis: All the rooms in the mansion are filled with light.",not_entailment
+60,"Premise: If the relationship between the value of the dollar and the value of the yen continues to deteriorate, the dollar will fall and the yen will rise.
+Hypothesis: The dollar will fall and the yen will rise.",not_entailment
+61,"Premise: The event will be held at the Old Armory in Lexington, Kentucky, on May 12, 2008.
+Hypothesis: The event will be held at the Old Armory in Lexington, Kentucky.",entailment
+62,"Premise: The two parties have a lot of money and a lot of people, but they're both pretty much alike.
+Hypothesis: The two parties have a lot of money and a lot of people, but they're not alike.",not_entailment
+63,"Premise: The boat has a fine bow, but the stern is rather clumsy.
+Hypothesis: The boat has a fine stern, but the bow is rather clumsy.",not_entailment
+64,"Premise: The report concluded that the government should take steps to improve the effectiveness of the law enforcement system, including increasing the number of drug-related prosecutions, increasing the number of federal agents, and improving the ability of federal agents to conduct investigations.
+Hypothesis: There are more than one federal agents who can conduct investigations.",not_entailment
+65,"Premise: We must make the best of the bad times and learn to enjoy the good times.
+Hypothesis: We must make the best of the good times and learn to enjoy the bad times.",not_entailment
+66,"Premise: At the foot of the mountain is a temple complex, the oldest in Japan, that dates from the sixth century.
+Hypothesis: The oldest temple in Japan is from the sixth century.",entailment
+67,"Premise: He's an actor, not a writer.
+Hypothesis: He's not a writer.",entailment
+68,"Premise: The former is not an issue in this case, but the latter is.
+Hypothesis: The former is an issue in this case.",entailment
+69,"Premise: The prospect of the child's coming into the world was too much for her.
+Hypothesis: The prospect of the child's coming into the world was too much for her to bear.",entailment
+70,"Premise: It's an unfortunate coincidence that you're in the area.
+Hypothesis: The area was not unfortunate.",not_entailment
+71,"Premise: How can we encourage more people to become entrepreneurs?
+Hypothesis: How can we encourage more people to become investors?",not_entailment
+72,"Premise: The underlying pattern of sexual dimorphism in humans is in the direction of females being larger than males.
+Hypothesis: The underlying pattern of sexual dimorphism in humans is in the direction of males being larger than females.",not_entailment
+73,"Premise: It's not like I'm asking you to give up your whole life.
+Hypothesis: You're asking me to give up my whole life.",not_entailment
+74,"Premise: To make the analysis more transparent, we first calculate the social cost of carbon for each year.
+Hypothesis: We can see the social cost of carbon.",entailment
+75,"Premise: The housekeeper was a long-time employee of the family, and she had always been regarded as a reliable and trustworthy person.
+Hypothesis: The housekeeper was a good friend of the family.",not_entailment
+76,"Premise: As you leave the port, you can see the volcanic rock of the city's namesake, Mount Funchal.
+Hypothesis: The city is built on the volcano.",not_entailment
+77,"Premise: And I shall do it, not because I am angry, but because I am afraid.
+Hypothesis: I am afraid of doing it.",not_entailment
+78,"Premise: In the case of ""Miranda v. Arizona"", the court held that the right to remain silent is a fundamental right under the U.S. Constitution.
+Hypothesis: The right to remain silent is a fundamental right under the U.S. Constitution.",entailment
+79,"Premise: The case of the local woman who was stabbed to death in her home by her son-in-law has sparked a national debate on the rights of women in India.
+Hypothesis: Women are being killed in India.",not_entailment
+80,"Premise: Oh, I'm afraid not. I can't read them.
+Hypothesis: You can read them.",not_entailment
+81,"Premise: All the evidence points to the conclusion that people who don't use drugs do not use them because they are afraid of them.
+Hypothesis: People who don't use drugs do not use them because they are afraid of them.",entailment
+82,"Premise: The YS Falls are a spectacular place to visit.
+Hypothesis: The YS Falls are a great place to visit.",entailment
+83,"Premise: The open-air baths of Gai-I is the largest in Japan, and the biggest in the world.
+Hypothesis: The baths can only be reached by boat.",not_entailment
+84,"Premise: A large percentage of companies in the U.S. and Europe have already begun to deploy them.
+Hypothesis: The usage of these technologies is increasing, and they are already being used in many companies.",not_entailment
+85,"Premise: The ""penny"" or ""dime"" of the future.
+Hypothesis: The ""penny"" or ""dime"" of the future is worthless.",not_entailment
+86,"Premise: The last word was, ""I'll take care of it.""
+Hypothesis: He will take care of it.",not_entailment
+87,"Premise: I've just had a great experience with this company.
+Hypothesis: I will never use this company again.",not_entailment
+88,"Premise: She had a sense of impending doom, and was convinced that she was going to die.
+Hypothesis: The girl was convinced that she was going to die.",entailment
+89,"Premise: A third, less obvious reason for the continued dominance of the US in the international economy is that the US has the largest market in the world.
+Hypothesis: The US has the largest market in the world.",entailment
+90,"Premise: The DTC provides funding to states for programs that assist low-income people with their income tax returns.
+Hypothesis: The DTC is a key part of the tax system.",not_entailment
+91,"Premise: The theory of bureaucratic politics, in which individuals' behavior is shaped by the organizational context, is a useful framework for understanding the behavior of the individuals in the case.
+Hypothesis: The theory of bureaucratic politics is useful for understanding the behavior of the individuals in the case.",entailment
+92,"Premise: The food-and-drug-administration chief's most important task is to protect the public from unsafe and ineffective drugs.
+Hypothesis: The Food and Drug Administration protects the public from unsafe and ineffective drugs.",entailment
+93,"Premise: How do you keep a marriage from turning into a loveless, sexless, mundane affair?
+Hypothesis: How do you keep a relationship from turning into a loveless, sexless, mundane relationship?",not_entailment
+94,"Premise: I think it's a great honor to be elected to the presidency of the United States.
+Hypothesis: It is a great honor to be elected to the presidency of the United States.",not_entailment
+95,"Premise: It is not a matter of whether he will win, but of how he will win.
+Hypothesis: He will win no matter how he wins.",entailment
+96,"Premise: At times, you'll spend a lot of time waiting for players ahead of you.
+Hypothesis: You will need to wait for players ahead of you when playing golf.",not_entailment
+97,"Premise: ""There is no other man in the world who is more anxious to be useful than I am,"" said Mr. Brown, ""but I am not the only one. The only difference is that I am the only one who is able to do anything.""
+Hypothesis: Mr. Brown is the only one who is able to do anything.",entailment
+98,"Premise: The existence of a society based on inequality and a caste system is a reflection of the idea that some people are inherently superior to others.
+Hypothesis: The caste system is a reflection of a hierarchical society.",entailment
+99,"Premise: The plot has to be written in such a way that it cannot be revealed.
+Hypothesis: The plot must be revealed.",not_entailment
+100,"Premise: These two individuals are also good examples of the first type of corporate behavior.
+Hypothesis: These two individuals are also good examples of the second type of corporate behavior.",not_entailment
+101,"Premise: I don't know.
+Hypothesis: I know that I don't know.",entailment
+102,"Premise: He was a pioneer in his field.
+Hypothesis: Is he a pioneer in his field?",entailment
+103,"Premise: A helicopter ride over the mountains is a good way to see the region's spectacular scenery.
+Hypothesis: The Emerald Coast's spectacular scenery can be seen from a helicopter ride.",entailment
+104,"Premise: For example, the amount of the additional aid will depend on the percentage of applicants who are eligible for aid.
+Hypothesis: The amount of the additional aid will depend on the number of applicants.",not_entailment
+105,"Premise: The next year, the couple moved to the country.
+Hypothesis: The couple moved to the country next year.",entailment
+106,"Premise: A great deal of the material in this book is taken from the notes of the Roman poet Juvenal, whose satiric verses of the late first century AD were the first examples of Latin satires.
+Hypothesis: The Roman poet Juvenal was the first Latin satirist.",entailment
+107,"Premise: In the event that a choice is made to invest in a product that is not the best available, the choice is still a good one.
+Hypothesis: The choice is still a good one.",not_entailment

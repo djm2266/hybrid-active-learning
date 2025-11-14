@@ -1,0 +1,225 @@
+active_learning:
+  adaptation:
+    adjust_frequency: 1
+    adjust_thresholds: true
+    enforce_cluster_quotas: true
+    max_cluster_imbalance: 3.0
+    min_samples_per_cluster: 5
+    threshold_decrease_rate: 0.05
+    threshold_increase_rate: 0.05
+  budget:
+    cf_budget_per_round: 15
+    cost_cf: 0.1
+    cost_human: 1.0
+    human_budget_per_round: 100
+    samples_per_round: 100
+    total_cf_budget: 1500
+    total_human_budget: 500
+    total_rounds: 10
+  initial_labeled_size: 50
+  knob:
+    adaptive: true
+    cf_weight: 0.13043478260869565
+  routing:
+    allow_cf_conditions:
+    - medium_uncertainty: true
+    - high_feasibility: true
+    - low_risk: true
+    defer_conditions:
+    - low_uncertainty: true
+    - low_novelty_and_coverage: true
+    force_human_conditions:
+    - high_uncertainty_and_novel: true
+    - high_risk: true
+    - coverage_critical: true
+  sample_weights:
+    cf_generated: 0.6
+    cf_validated: 0.85
+    human_labeled: 1.0
+  stopping:
+    max_rounds: 10
+    min_improvement: 0.01
+    patience: 3
+    target_f1: 0.95
+  thresholds:
+    coverage_percentile: 70
+    feasibility_percentile: 60
+    novelty_percentile: 70
+    risk_percentile: 75
+    uncertainty_high_percentile: 80
+    uncertainty_low_percentile: 40
+counterfactual:
+  filtering:
+    diversity_threshold: 0.8
+    filter_batch_size: 100
+    max_duplicates: 2
+    min_quality_score: 0.6
+  generation:
+    max_candidates: 5
+    max_edit_distance: 10
+    max_word_changes: 5
+    min_candidates: 3
+    preserve_structure: true
+    temperature: 0.7
+    top_p: 0.9
+  validation:
+    check_label_leakage: true
+    confidence_threshold: 0.4
+    flip_mode: hybrid
+    fluency_threshold: 0.7
+    forbidden_words: []
+    grammar_check: true
+    max_similarity: 0.95
+    min_similarity: 0.5
+    require_label_flip: false
+    similarity_metric: sentence_transformer
+    teacher_forcing: true
+dataset:
+  id_column: id
+  label_column: Label
+  test_file: yelp_labeled.csv
+  text_column: example
+  train_file: yelplabeled_test.csv
+directories:
+  archive: data/output/archive
+  checkpoints: data/output/checkpoints
+  input_data: data/input
+  interim_output: data/output/interim
+  output_data: data/output
+embeddings:
+  batch_size: 32
+  cache: true
+  cache_dir: data/output/embeddings_cache
+  device: cpu
+  model: sentence-transformers/all-MiniLM-L6-v2
+  normalize: true
+human_oracle:
+  cli:
+    allow_skip: true
+    context_samples: 3
+    show_context: true
+  file:
+    format: csv
+    input_dir: data/output/to_annotate
+    output_dir: data/output/annotated
+  interface: cli
+  quality_control:
+    double_annotation: false
+    double_annotation_sample_rate: 0.1
+    expert_validation: false
+  web:
+    host: localhost
+    port: 8080
+llm:
+  anthropic:
+    api_key: YOUR_ANTHROPIC_API_KEY_HERE
+    model: claude-3-haiku-20240307
+  checkpointing:
+    auto_resume: true
+    enabled: true
+    save_frequency: 50
+  gemini:
+    api_key: AIzaSyCPP8VMJfGStFgKy_EM2KPgDjX7pdnC8II
+    model: gemini-2.0-flash-exp
+  models:
+    candidate_generation:
+      max_tokens: 100
+      temperature: 0.8
+      top_p: 0.9
+    counterfactual_generation:
+      max_tokens: 150
+      temperature: 0.7
+      top_p: 0.9
+    validation:
+      max_tokens: 50
+      temperature: 0.3
+  ollama:
+    base_url: http://localhost:11434
+    model: qwen2.5:7b
+    timeout: 60
+  openai:
+    api_key: YOUR_OPENAI_KEY_HERE
+    model: gpt-4o-mini
+    organization: null
+  provider: ollama
+  rate_limiting:
+    enabled: true
+    requests_per_minute: 20
+    retry_attempts: 3
+    retry_delay: 5
+logging:
+  console: true
+  file: logs/active_learning.log
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  level: INFO
+model:
+  architecture: transformer
+  base_model: distilbert-base-uncased
+  evaluation:
+    boundary_health_check: true
+    metrics:
+    - f1_macro
+    - f1_weighted
+    - accuracy
+    - precision
+    - recall
+    per_cluster_metrics: true
+  save_all_checkpoints: false
+  save_best_model: true
+  training:
+    batch_size: 16
+    early_stopping: true
+    epochs: 3
+    learning_rate: 2e-5
+    patience: 2
+    use_sample_weights: true
+    warmup_steps: 100
+    weight_decay: 0.01
+processing:
+  batch_size: 32
+  num_workers: 4
+  seed: 42
+reproducibility:
+  benchmark: false
+  deterministic: true
+  seed: 42
+scoring:
+  coverage:
+    clustering_method: kmeans
+    method: cluster_size
+    num_clusters: 10
+  feasibility:
+    attention_model: null
+    attention_weight: 0.5
+    combine_method: average
+    length_weight: 0.5
+    target_length: 50
+  novelty:
+    embedding_model: sentence-transformers/all-MiniLM-L6-v2
+    method: euclidean
+  risk:
+    alpha: 0.3
+    infeasibility_weight: 0.4
+    safety_model: null
+    safety_weight: 0.6
+  uncertainty:
+    method: entropy
+    normalize: true
+tracking:
+  backend: mlflow
+  enabled: true
+  log_metrics:
+  - global_f1
+  - per_cluster_f1
+  - boundary_health
+  - cf_acceptance_rate
+  - human_annotations
+  - cf_generations
+  - total_cost
+  - round_time
+  mlflow:
+    experiment_name: hybrid_active_learning
+    tracking_uri: ./mlruns
+  wandb:
+    entity: null
+    project: hybrid-active-learning

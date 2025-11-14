@@ -1,0 +1,433 @@
+id,example,label
+0,What is a fear of passing high objects ?,DESC
+1,What is Maurizio Pellegrin 's age ?,NUM
+2,Where are the Union Stockyards ?,LOC
+3,What meat complemented sweet potatoes and peas in the first TV dinner ?,DESC
+4,What former African leader held his country 's boxing title for nine years ?,HUM
+5,What does IOC stand for ?,ABBR
+6,Who released the Internet worm in the late 1980s ?,HUM
+7,Where is Qatar ?,LOC
+8,What do you need to do to marry someone in jail ?,ENTY
+9,"What is the origin of the midwest slang , ` you 're darn tootin ' ?",ENTY
+10,What do I call the sons and daughters of my first cousins ?,DESC
+11,How many children does Ray Davies of the Kinks have ?,NUM
+12,How many people in the world speak French ?,NUM
+13,Where are the tropical rain forest distributions ?,LOC
+14,How do they find an epicenter ?,ENTY
+15,Where did the term `` 86ed '' come from ?,ENTY
+16,Who lives at 39 Stone Canyon Way ?,HUM
+17,How is Abigail Arcane related to the villainous opponent of the Swamp Thing ?,ENTY
+18,What city is served by Tempelhol Airport ?,LOC
+19,What 's the abbreviation for trinitrotoluene ?,ABBR
+20,How do you find the area of a circle ?,ENTY
+21,What corporation does Madonna advertise for ?,HUM
+22,What is the recomended age to switch a child from a crib to a bed ?,NUM
+23,Name a golf course in Myrtle Beach .,DESC
+24,What does IBM stand for ?,ABBR
+25,Name the various costumed personas of Dr. Henry Pym .,HUM
+26,What was a California prayer book to an Old West gambler ?,DESC
+27,What does SHIELD stand for ?,ABBR
+28,Which side should a bowler facing a 37803 split hit the 3-pin on-the left or the right ?,DESC
+29,Which Latin American country is the largest ?,LOC
+30,How many Israeli athletes were killed at the Munich Olympics ?,NUM
+31,What is the definition of a witch ?,ENTY
+32,What 's the difference between TFT and dual-scan display ?,ENTY
+33,Where is the Abominable Snowman said to wander ?,LOC
+34,What U.S. state boasts Leif Ericson Park ?,LOC
+35,"What inescapable purveyor of background music celebrated its 5th anniversary in July , 1984 ?",HUM
+36,What songs were popular in 1948 ?,DESC
+37,What was paper made of in the late 16th century ?,DESC
+38,What does NAFTA stand for ?,ABBR
+39,Where did the name Daniel originate ?,LOC
+40,Where can I find lyrics for R&B ?,LOC
+41,How successful is arometherapy ?,ENTY
+42,What is the Peloponnesian League ?,ENTY
+43,What does IQ stand for ?,ABBR
+44,What is the economic impact of unemployment on the economy ?,ENTY
+45,What is the chemiosmotic theory ?,ENTY
+46,What was the first minimum wage ?,NUM
+47,What is the origin of the ethnic category `` caucasian '' ?,ENTY
+48,What are field effect transistors ?,ENTY
+49,What money was used by them ?,DESC
+50,What is the cultural origin of the ceremony of potlatch ?,ENTY
+51,Where do people mountain climb in Nepal ?,LOC
+52,Why did Egyptians shave their eyebrows ?,ENTY
+53,How many Marx Brothers were there ?,NUM
+54,What does CPR stand for ?,ABBR
+55,What has to be produced in a writ of habeas corpus ?,DESC
+56,What does `` B.Y.O.B. '' mean ?,ABBR
+57,Who was the actor who played Sam in the movie Casablanca ?,HUM
+58,What is the name of the 1919 occurrence in which British troops killed over 3 unarmed Indian protestors ?,DESC
+59,What suburban housewife and mother of three wrote The Feminine Mystique ?,HUM
+60,What two countries fought the Hundred Years ' War ?,LOC
+61,What is Dick Clark 's date of birth ?,NUM
+62,When does the Bible say the seasons started ?,NUM
+63,Which gender has bigger thighs ?,DESC
+64,How many islands make up Antigua ?,NUM
+65,What English word contains the most letters ?,DESC
+66,What Italian leader had a lifelong fear of the evil eye ?,HUM
+67,When do you plant winter wheat ?,NUM
+68,Where is Mozambique located ?,LOC
+69,What is the highest peak in Africa ?,LOC
+70,Who was the second man to walk on the moon ?,HUM
+71,What is the only primate to lack pigment in the palms of its hands ?,DESC
+72,What did the Chinese emperor present to the English soldier Gordon in recognition of his services in quelling rebellions ?,DESC
+73,"What do the letters CE stand for on so many products , particularly electrical , purchased now ?",ABBR
+74,Where did King Francis I hang the `` Mona Lisa '' when he owned it ?,LOC
+75,What is the protection rate of using condoms ?,NUM
+76,What is the size of the student body at the University of Massachusetts in Amherst ?,NUM
+77,Who is Samuel F. Pickering ?,HUM
+78,Who wrote the poem that starts `` I love your lips when they 're wet with wine and red with a warm desire '' ?,HUM
+79,What does e.g. stand for ?,ABBR
+80,What are the major differences in the Catholic and Methodist religions ?,ENTY
+81,"What islands got their name from the Spanish baja mar , meaning shallow water ?",LOC
+82,Where is Santa Lucia ?,LOC
+83,"What President lived at 219 North Delaware Street , Independence , Missouri ?",HUM
+84,What mountain range marks the border of France and Spain ?,LOC
+85,Why do some clothing labels say `` Use a nonchlorine bleach '' ?,ENTY
+86,What is DSL ?,ABBR
+87,How many chemical elements are there ?,NUM
+88,How much will gas be taxed in California by the year 2000 ?,NUM
+89,What are you hearing when you put a seashell to your ear ?,ENTY
+90,What London street claims to be the world center for men 's tailoring ?,LOC
+91,Name the U.S. Senate majority leader and the Speaker of the House .,HUM
+92,What TV family sometimes buys eclairs from Nelson 's Bakery ?,HUM
+93,Who portrayed Prewett in From Here to Eternity ?,HUM
+94,What effect does a prism have on light ?,ENTY
+95,What should you do for an ankle sprain ?,ENTY
+96,What 's the farthest planet from the sun ?,LOC
+97,What did Louis Cartier invent for aviator Santos Dumont in 1940 ?,DESC
+98,What is the capital of Burkina Faso ?,LOC
+99,What does the channel ESPN stand for ?,ABBR
+100,What is the average age a horse lives ?,NUM
+101,What is the full form of .com ?,ABBR
+102,How many head injuries are there in recreational ice skating each year ?,NUM
+103,When was Franklin D. Roosevelt stricken with polio ?,NUM
+104,How does a chick breathe inside an egg ?,ENTY
+105,What does A&W of root beer fame stand for ?,ABBR
+106,What is the one thing you need before you can purchase life insurance ?,DESC
+107,What does the T.S. stand for in T.S. Eliot 's name ?,ABBR
+108,Which presidents of the USA were Masons ?,HUM
+109,What kind of sport is often associated with hooligans ?,DESC
+110,What does a farrier put shoes on ?,DESC
+111,How long does it take to hike the entire Appalachian Trail ?,NUM
+112,What is the most common cancer ?,DESC
+113,Where did Ty Cobb grow up ?,LOC
+114,Whose autobiography is titled Yes I Can ?,HUM
+115,What category does the color pink denote in the Trivial Pursuit Baby Boomer Edition ?,ENTY
+116,Who portrayed `` Rosanne Rosanna-Dana '' on the television show `` Saturday Night Live '' ?,HUM
+117,What was the only country in the Western Hemisphere to join the Russian-led boycott of the 1984 Summer Olympics ?,LOC
+118,What was the largest city in the world to declare martial law in 1989 ?,LOC
+119,What should the oven be set at for baking Peachy Oat Muffins ?,DESC
+120,What type of hunting are retrievers used for ?,DESC
+121,Where does Mother Angelica live ?,LOC
+122,When did the Chernobyl nuclear accident occur ?,NUM
+123,What American poet wrote : `` Good fences make good neighbors '' ?,HUM
+124,How can I get rich quick ?,ENTY
+125,How old is Benny Carter ?,NUM
+126,"Why do people get goosebumps when they have something emotional happen to them , like when they hear a beautiful piece of music , or see something beautiful , or get aroused by someone they love ?",ENTY
+127,"What is the smallest thing seen under the most powerful microscope , and how big is it ?",DESC
+128,What does the abbreviation IOC stand for ?,ABBR
+129,What is a fear of insanity ?,DESC
+130,Where is Inoco based ?,LOC
+131,How many feet long is a baseball pitcher 's rubber ?,NUM
+132,Name of scholar on whose literal translations from the Chinese and Japanese Ezra Pound depended ?,HUM
+133,What is pandoro ?,ENTY
+134,What is RAM in the computer ?,ABBR
+135,In what state was the first co-educational college established,LOC
+136,Name the child left on a doorstep at the beginning of Gasoline Alley .,HUM
+137,What does ` PSI ' stand for ?,ABBR
+138,When did Spielberg direct `` Jaws '' ?,NUM
+139,What is hypnotherapy ?,ENTY
+140,When was London 's Docklands Light Railway constructed ?,NUM
+141,Who is Prince Naseem Hamed ?,HUM
+142,When did the vesuvius last erupt ?,NUM
+143,Why do horseshoes bring luck ?,ENTY
+144,What does NN O `` mean when used as a prefix in Irish surnames ?,ABBR
+145,What is the size of the largest akita ?,NUM
+146,Why were red M&Ms discontinued then brought back ?,ENTY
+147,Describe the Long March .,ENTY
+148,What Leon Uris novel dealt with the Russian capture of Berlin ?,DESC
+149,Who wrote NN DT NNP NNP '' ?,HUM
+150,Name a French fascist party .,HUM
+151,What are the Arabic Numerals from 1 to 10 ?,ENTY
+152,Who was the first person to study the stars ?,HUM
+153,"What does Ms. , Miss , and Mrs. stand for ?",ABBR
+154,The Iraqis launched their attack on Kuwait on what day ?,NUM
+155,What are the diseases that can be cured by black cumin ?,DESC
+156,What does a spermologer collect ?,DESC
+157,What is the fastest fish in the world ?,DESC
+158,What character narrates Treasure Island ?,HUM
+159,What is the goat population of the world ?,NUM
+160,What is Jane Goodall known for ?,ENTY
+161,What causes panic attacks ?,ENTY
+162,What 's a perfect score in a gymnastics exercise ?,NUM
+163,"Who lives at 24 Sussex Drive , Ottawa ?",HUM
+164,What is a `` node '' in computer terms ?,ENTY
+165,How long does it take the Milky Way Galaxy to make one revolution ?,NUM
+166,What comedian was born Allen Stewart Konigsberg ?,HUM
+167,What is the origin of the expression `` tout de suite '' ?,ENTY
+168,What is the origin of thank you notes ?,ENTY
+169,What prompted the co-pilot of the Enola Gay to enter only `` My God '' in his log ?,ENTY
+170,Who invented basketball ?,HUM
+171,What does LOL mean ?,ABBR
+172,How many people visit the Pope each month ?,NUM
+173,Who invented the pull-tab opener on cans ?,HUM
+174,"What soft drink first appeared in the Old Corner Drug Store in Waco , Texas , in 1885 ?",DESC
+175,What was the name of Robert Fulton 's most famous steamboat ?,DESC
+176,What colorful sea 's region does Greek legend say the Amazons lived near ?,LOC
+177,What was the occupation of Mandy Rice-Davies ?,HUM
+178,What country are Godiva chocolates from ?,LOC
+179,What are the four natural aids used in riding a horse ?,DESC
+180,Who was the architect of Central Park ?,HUM
+181,What country is Kosovo a part of ?,LOC
+182,Name Dick Tracy 's two children .,HUM
+183,What measures did Clinton take to avoid the draft ?,DESC
+184,What is average salary of restaurant manager in United States ?,NUM
+185,What company sells the most greeting cards ?,HUM
+186,Who directed Citizen Kane ?,HUM
+187,What does NASA stand for ?,ABBR
+188,Who turned all he touched to gold ?,HUM
+189,"What is p.m. an abbreviation for , as in 5 p.m. ?",ABBR
+190,What information can you get me on Fairground Park in St. Louis,ENTY
+191,What happened during the Blackhawk Indian war of 1832 ?,ENTY
+192,What is SVHS ?,ABBR
+193,What is pasta ?,ENTY
+194,The Jewish alphabet is called what ?,DESC
+195,How much money does the Sultan of Brunei have ?,NUM
+196,What is the oldest website on the Internet ?,LOC
+197,What Kenyan city is the safari center for East Africa ?,LOC
+198,How many pins are used in skittles ?,NUM
+199,How many dots make up the symbol for `` because '' ?,NUM
+200,What is the state nickname of Mississippi ?,LOC
+201,"When reading classified ads , what does EENTY : other stand for ?",ABBR
+202,What country 's national passenger rail system is called Via ?,LOC
+203,What color were Ernest Hemingway 's eyes ?,DESC
+204,What tale has the moral : `` He who wants everything gets nothing '' ?,DESC
+205,What Indian tribe is F Troop perpetually doing battle with ?,HUM
+206,Approximately how many students are enrolled at the University of Massachusetts ?,NUM
+207,Why do men snore ?,ENTY
+208,What is the full name of the man who invented the multicolored game cube that has 42.3 quintillion potential combinations ?,HUM
+209,Where did makeup originate ?,LOC
+210,What does U.S.S.R. stand for ?,ABBR
+211,What is the name of the Family Circus 's dog ?,DESC
+212,What are the 10 plagues of Egypt ?,DESC
+213,Who danced into stardom with Fred Astaire in 1941 's You 'll Never Get Rich ?,HUM
+214,Who was the first woman in space ?,HUM
+215,What do the letters ZIP stand for in the phrase `` ZIP code '' ?,ABBR
+216,What do you say to a friend who ignores you for other friends ?,ENTY
+217,What year did Hitler die ?,NUM
+218,What is the frequency of VHF ?,NUM
+219,What is BPH ?,ABBR
+220,What does NECROSIS mean ?,ABBR
+221,What are the five most expensive cities in the world ?,LOC
+222,How does food color affect how you think it will taste ?,ENTY
+223,What are geckos ?,ENTY
+224,What does BTU mean ?,ABBR
+225,Who is Stein Eriksen ?,HUM
+226,Who created `` The Muppets '' ?,HUM
+227,What debts did Qintex group leave ?,NUM
+228,"In a computer , what does SCSI mean ?",ABBR
+229,What was Mel Gibson 's first movie ?,DESC
+230,What 's the most powerful country in the world ?,LOC
+231,What is the treatment for depression ?,DESC
+232,Where can I get cotton textiles importer details ?,LOC
+233,Italy is the largest producer of what ?,DESC
+234,What famed strip of land is a 15-minute boat trip across the Venetian Lagoon from Venice ?,LOC
+235,What was `` America 's recessed-filter cigarette '' ?,DESC
+236,What diamond producer controls about 80% of the world 's diamonds ?,HUM
+237,"What do you call a date that contains sequencing numbers , like 9-8-98 ?",DESC
+238,How do you get a pointsettia to turn red ?,ENTY
+239,What is the web address of the list of e-mail addresses of members of the House of Representatives ?,LOC
+240,Who headed Hitler 's infamous Gestapo ?,HUM
+241,What is the amount of money owed for illegally having a dog on a beach ?,NUM
+242,What department store heir is responsible for raising a three-ton safe from the underwater wreckage of the Andrea Doria ?,HUM
+243,Who was Lacan ?,HUM
+244,Where is the Loop ?,LOC
+245,When are the Oscars Academy Awards in 1999 ?,NUM
+246,How do I give a good massage ?,ENTY
+247,What is SAP ?,ABBR
+248,In what year did Ireland elect its first woman president ?,NUM
+249,Which soft drink does Madonna advertise for ?,DESC
+250,What facial feature did Walt Disney sport that none of Disney 's employees is allowed to ?,ENTY
+251,What author did photographer Yousuf Karsh call `` the shiest man I ever met '' ?,HUM
+252,How many continents are there ?,NUM
+253,What is AFS ?,ABBR
+254,What 's the meaning of the name Tatiana ?,ENTY
+255,What city 's the kickoff point for climbs of Mount Everest ?,LOC
+256,What is HTML ?,ABBR
+257,What is the acronym for the rating system for air conditioner efficiency ?,ABBR
+258,What does the abbreviation OAS stand for ?,ABBR
+259,What field sport did dentist William Beers promote and write a standard book of rules for ?,DESC
+260,What does storm wave mean in Japanese ?,ENTY
+261,What does an ashen-faced eidologist search out the existence of ?,DESC
+262,What are the best ways to improve employee morale at low cost ?,DESC
+263,What 's the setting of John Le Carre 's A Small Town in Germany ?,ENTY
+264,How many warmup pitches does a reliever get coming into a baseball game ?,NUM
+265,What are some ways to help someone with Chicken Pox ?,DESC
+266,What does VCR stand for ?,ABBR
+267,Where can I find the status of my tax return ?,LOC
+268,What year did Montana become a state ?,NUM
+269,"What TV comediennes 's characters include former movie star Nora Desmond , secretary Mrs. Wiggins and a housewife named Eunice ?",HUM
+270,What U.S. President had brothers-in-law in the Confederate army ?,HUM
+271,What bordering country is due north of Costa Rica ?,LOC
+272,Where could I go to take a ride on a steam locomotive ?,LOC
+273,What is LMDS ?,ABBR
+274,What makes thunder ?,ENTY
+275,What were the achievements of Richard Nixon ?,DESC
+276,Who built the first pyramid ?,HUM
+277,What 's an easy way to count the approximate number of fish in a lake ?,DESC
+278,"What California bridge was Don Brown the first to cross , on May 27 , 1937 ?",LOC
+279,What lake in Scotland is said to hold one or more monsters ?,LOC
+280,Who plays shortstop for Charlie Brown 's baseball team ?,HUM
+281,What product did William Horlick discover and produce ?,DESC
+282,What is e-commerce ?,ENTY
+283,Where do the Grimace and Mayor McCheese live ?,LOC
+284,What beer advertised that it had `` three rings '' ?,DESC
+285,Who is the founder of Scientology ?,HUM
+286,What is the collective noun for geese ?,DESC
+287,"Where is Hearst Castle , built by publisher William Randolph Hearst ?",LOC
+288,Where do you find information about the Queensland National Competition Policy,LOC
+289,What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body ?,DESC
+290,How many stars are there on the Soviet Union 's flag ?,NUM
+291,What country owns Corsica ?,LOC
+292,What video game hero do some of his fans call Chomper ?,HUM
+293,What rabbit got its name because its ears resembled those of a jackass ?,DESC
+294,In what city is the headquarters of Sinn Fein ?,LOC
+295,Where on the Internet can I find information on laundry detergent ?,LOC
+296,Which college did Dikembe Mutombo attend ?,HUM
+297,What James Michener book is subtitled Spanish Travels and Reflections ?,DESC
+298,Where 's Montenegro ?,LOC
+299,What is the abbreviation of General Motors ?,ABBR
+300,Who founded the modern theory of probability ?,HUM
+301,"What do Caroll Baker , Tammy Grimes , Debbie Reynolds , and Judy Garland all have in common ?",ENTY
+302,What would you add to the clay mixture to produce bone china ?,DESC
+303,What is difference between a poster and a print ?,ENTY
+304,What day of the week sees the most fatal car accidents ?,NUM
+305,What Homerian epic chronicles events toward the end of the Trojan Wars ?,DESC
+306,What country was General Douglas McArthur in when he was recalled by President Truman ?,LOC
+307,Where is Microsoft 's corporate headquarters located ?,LOC
+308,What is the abbreviation of the International Olympic Committee ?,ABBR
+309,Who is the `` Queen Mother '' ?,HUM
+310,What does the Georgetown `` Hoya '' mean ?,ENTY
+311,"Which is the largest clock , diameter wise , in Europe ?",DESC
+312,What does NASDAQ stand for ?,ABBR
+313,When was the De Beers company founded ?,NUM
+314,What famous film and TV cowboy lent his name to a fast food chain ?,HUM
+315,What does the six-footed Musca domestica become when it enters a house ?,DESC
+316,What is DTMF ?,ABBR
+317,Who is the only prime minister of Canada to serve 22 years but not necessarily consecutively ?,HUM
+318,"Where was `` I have fallen , and I can 't get up '' said first ?",LOC
+319,What is the meaning of the name Kathryn ?,ENTY
+320,"What do the letters D.C. stand for in Washington , D.C. ?",ABBR
+321,What arch can you see from the Place de la Concorde ?,LOC
+322,What is DEET ?,ABBR
+323,How many square feet is Bill Gates ' home ?,NUM
+324,Who is Olive Oyl 's brother ?,HUM
+325,Why are the ears your center of balance ?,ENTY
+326,What is Drew Barrymore 's email address ?,LOC
+327,What is the abbreviation for Original Equipment Manufacturer ?,ABBR
+328,What are names of two old men who appear in the serial tv Muppets Show ?,HUM
+329,What kind of business is 7-Eleven ?,HUM
+330,What does `` intractable plantar keratoma '' mean ?,ENTY
+331,How many cubic feet of space does a gallon of water occupy ?,NUM
+332,What is HDLC ?,ABBR
+333,How many syllables are there in a line of hendecasyllabic poetry ?,NUM
+334,What is the full name of the PLO ?,ABBR
+335,What does the term 3 mean to a newspaper editor ?,ENTY
+336,CPR is the abbreviation for what ?,ABBR
+337,What Japanese city was once called Edo ?,LOC
+338,What does S.O.S. stand for ?,ABBR
+339,"At Christmas time , what is the traditional thing to do under the mistletoe ?",DESC
+340,What is the weather like on the moon ?,ENTY
+341,How many astronauts have been on the moon ?,NUM
+342,What 's the abbreviation for limited partnership ?,ABBR
+343,What was the sequel to The Moon 's Balloon ?,DESC
+344,What does MSG stand for ?,ABBR
+345,Where can I find info on research being done on oilseeds thru genetics ?,LOC
+346,What does Visine get out ?,DESC
+347,Why do pharmacists work on raised floors ?,ENTY
+348,What do opposite faces of a die always add up to ?,DESC
+349,Who produces Spumante ?,HUM
+350,What planet gave bith to Superman ?,LOC
+351,CNN is the abbreviation for what ?,ABBR
+352,What state is John F. Kennedy buried in ?,LOC
+353,What is the name of the company that manufactures the `` American Girl '' doll collection ?,HUM
+354,What does INRI stand for when used on Jesus ' cross ?,ABBR
+355,What is RCD ?,ABBR
+356,How many James Bond novels are there ?,NUM
+357,How many home runs did Babe Ruth hit in his lifetime ?,NUM
+358,What is the average time to kiss somene ?,NUM
+359,What author was appointed U.S. ambassador to Spain in 1842 ?,HUM
+360,How many Jews were executed in concentration camps during WWII ?,NUM
+361,How much is a Canadian 1967 twenty dollar gold coin worth ?,NUM
+362,"What then-derogatory term was applied to the painters Monet , Sisley , Pissarro , Renoir and Degas ?",DESC
+363,In what country is a stuck-out tongue a friendly greeting ?,LOC
+364,What is the abbreviation of the National Bureau of Investigation ?,ABBR
+365,What is the use of a 24-hour clock instead of a 12-hour clock ?,ENTY
+366,What significant battle was fought in Belgium in 1815 ?,DESC
+367,When was the Brandenburg Gate in Berlin built ?,NUM
+368,What famous singing cowboy owns the California Angels baseball team ?,HUM
+369,What does pH stand for ?,ABBR
+370,What game does Garry Kasparov play ?,DESC
+371,What 's the common name for acetylsalicylic acid ?,DESC
+372,What golfing accessory was patented by George Grant on December 12,DESC
+373,What is the abbreviation of the company name ` General Motors ' ?,ABBR
+374,What is the most popular last name ?,HUM
+375,What is the definition of cosmology ?,ENTY
+376,Jackson Pollock was a native of what country ?,LOC
+377,What are the three winter months in the southern hemisphere ?,NUM
+378,What is the abbreviated expression for the National Bureau of Investigation ?,ABBR
+379,How many electoral college votes does Colorado have ?,NUM
+380,How many states have a `` lemon law '' for new automobiles ?,NUM
+381,What is federal income tax ?,ENTY
+382,What is IOC an abbreviation of ?,ABBR
+383,What number of American soldiers remain unaccounted from the Vietnam war ?,NUM
+384,What percentage of Americans own their homes ?,NUM
+385,How many hours of work does it take a typist to complete a 100-page screenplay ?,NUM
+386,The Orange Bowl is in what city ?,LOC
+387,What does the `` c '' stand for in the equation E=mc2 ?,ABBR
+388,What is a fear of being cold ?,DESC
+389,What does HIV stand for ?,ABBR
+390,What is the correct way to abbreviate cc. at the bottom of a business letter ?,ABBR
+391,What is the abbreviated form of the National Bureau of Investigation ?,ABBR
+392,What phone number can I call to have a tree planted ?,NUM
+393,What is the meaning of the name Ella ?,ENTY
+394,CNN is an acronym for what ?,ABBR
+395,When was the bar-code invented ?,NUM
+396,What is the tallest building in Japan ?,LOC
+397,What London museum features a Chamber of Horrors ?,LOC
+398,"What year did Degas create the bronze sculpture , `` Fourth Position Front ? ''",NUM
+399,What powdered soft drink mix went into space ?,DESC
+400,How long does it take for your blood to make one complete trip through the body ?,NUM
+401,What is the origin of head lice ?,ENTY
+402,What does snafu stand for ?,ABBR
+403,Name 11 famous martyrs .,HUM
+404,What two Caribbean countries share the island of Hispaniola ?,LOC
+405,What does BUD stand for ?,ABBR
+406,What is spaceball played on ?,ENTY
+407,What is a virtual IP address ?,ENTY
+408,What is the highest number of home runs on record for any one game ?,NUM
+409,"Why is the universe flat , if it started by an explosion , shouldn 't it be a sphere ?",ENTY
+410,What is the longest-running television series ?,DESC
+411,Who painted `` Soft Self-Portrait with Grilled Bacon '' ?,HUM
+412,When is the Sun closest to the Earth ?,NUM
+413,What was the name of the orca that died of a fungal infection ?,DESC
+414,What robust U.S. President imported his own instructor after seeing a judo match ?,HUM
+415,What is the capital of Italy ?,LOC
+416,What are the top five oil-producing countries in the world ?,LOC
+417,How did Lee Harvey Oswald purchase his rifle ?,ENTY
+418,What U.S. city is known as The Rubber Capital of the World ?,LOC
+419,What is the definition of the term `` weapons system '' ?,ENTY
+420,Why are there no white lines on pro footballs ?,ENTY
+421,What Peruvian city is home to the mummified body of Francisco Pizarro ?,LOC
+422,What does the E stand for in the equation E=mc2 ?,ABBR
+423,What stadium do the Miami Dolphins play their home games in ?,LOC
+424,What kind of company is 7-Eleven ?,HUM
+425,Name the Islamic counterpart to the Red Cross .,DESC
+426,What 's the score of a forfeited baseball game ?,NUM
+427,What is the abbreviation for micro ?,ABBR
+428,What famous actress made her first appearance on stage at the age of five in the year 191 as `` Baby '' ?,HUM
+429,How many feet high is the hurdle in front of a runner 's steeplechase water jump ?,NUM
+430,Who followed Willy Brandt as chancellor of the Federal Republic of Germany ?,HUM
+431,What is a `` USB '' port on a computer ?,ABBR

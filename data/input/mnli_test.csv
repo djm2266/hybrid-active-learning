@@ -1,0 +1,217 @@
+id,example,label
+0,"Premise: Ben Franklin was never President.'
+Hypothesis: Ben still had a large public following.",neutral
+1,"Premise: The guide is structured around the federal acquisition process, and is independent of development methods for information systems.
+Hypothesis: The federal acquisition process provides the structure for the guide.",entailment
+2,"Premise: One example, already mentioned, was our review of the representation of foreign interests by former very high government officials (U.S.
+Hypothesis: No example was mentioned before, we will start from the beginning.",contradiction
+3,"Premise: i don't know we have a seven year old it's pretty funny like stay out
+Hypothesis: We have a seven year old.",entailment
+4,"Premise: you you sound like a young guy and and uh
+Hypothesis: You sound like you are in your twenties.",neutral
+5,"Premise: You will watch! Evelyn Howard bowed her head. 
+Hypothesis: You'll watch me solve this case; Evelyn Howard bowed her head in defiance.",neutral
+6,"Premise: uh yeah i have one of these little Zenith laptops which uh the uh everybody here at school has to buy one
+Hypothesis: All the students at my school, the University of Alabama, need to buy a zenith laptop to take notes with. ",neutral
+7,"Premise: One, other firms spend more.
+Hypothesis: Those other firms are able to spend more because they have more money.",neutral
+8,"Premise: In 1898, under the Convention of Peking, China leased the New Territories and 235 more islands to Britain for what then seemed an eternity 99 years.
+Hypothesis: Britain forced China into giving up islands with their powerful foreign administration.",neutral
+9,"Premise: Although GAO may give an agency up to 30 calendar days to comment, GAO may attempt to obtain comments in shorter time frames, depending on the product timing needs of the requester and the complexity of the issues involved.
+Hypothesis: GAO gives agencies at least 30 days.",contradiction
+10,"Premise: You can spend fascinating hours exploring the covered Hankyu Higashi-dori arcade near the Hankyu stations, less upmarket but no less fascinating than the more famous Shinsaibashi arcade (see below).
+Hypothesis: It's better to visit the Hankyu Higashi-dori arcade than the Shinsaibashi arcade if you want to spend less money.",entailment
+11,"Premise: just hard finding the time that can be dedicated to that
+Hypothesis: Finding the time that can be dedicated to that",entailment
+12,"Premise: The old Roman name of Europe's most famous volcano means Unextinguished it is the only active volcano in continental Europe (with those on the nearby islands of Sicily and Stromboli not to be forgotten).
+Hypothesis: The only active volcano in continental Europe will soon be extinguished.",neutral
+13,"Premise: For a moment he stood rooted to the ground.
+Hypothesis: He stood still before he finally started walking again.",neutral
+14,"Premise: As a result, after a month-long session only the basics of grammar and the name of the language were decided upon.
+Hypothesis: There is an established name and grammar for the language.",entailment
+15,"Premise: i've always wanted a masters degree but to get one in in English or anything other than an MBA it's really difficult to do at night
+Hypothesis: It's easy to do masters degrees of any kind at night.",contradiction
+16,"Premise: S. 556 also does not have an allocation scheme.
+Hypothesis: S 556 does include an allocation scheme.",contradiction
+17,"Premise: As a result of the program monitoring and evaluation activities these reviews permit, the government has set new, more challenging targets for future performance.
+Hypothesis: As a result of the program monitoring and evaluation activities these reviews permit, the government has shut down the program.",contradiction
+18,"Premise: She was beginning to understand Sir James's methods.
+Hypothesis: Sir James had his peculiarities, but she was a quick study. ",entailment
+19,"Premise: Hungry? prompted his father.
+Hypothesis: His father didn't say anything to him.",contradiction
+20,"Premise: The covered market, built in volcanic stone from Agde with a timber frame, dates back to the 17th century.
+Hypothesis: The market has a timber frame and stone walls.",entailment
+21,"Premise: Some schools, certainly not all, credit a portion of tuition debt in return for public law service.
+Hypothesis: Some schools give you a tuition credit in return for public las swervice.",entailment
+22,"Premise: In summer the smaller island is scorched and yellow, with rusty-colored rock and cliff formations.
+Hypothesis: In the summer the island is a livid green with gentle hills.",contradiction
+23,"Premise: The technology assumptions also have the effect of increasing the availability of cleaner energy supply technologies that reduce the level of emissions per kilowatt-hour of generation.
+Hypothesis: The availability of cleaner energy supply technologies will be increased. ",entailment
+24,"Premise:  critical design reviews that are supported by completed engineering drawings and production decisions that are supported by reliability testing and statistical process control data.
+Hypothesis: Critical design reviews are supported by engineering drawings and product decisions.",entailment
+25,"Premise:  ""He never had any patience to lose.
+Hypothesis: He was very impatient.",entailment
+26,"Premise: The Courthouse Antiques and Craft Market, next to Cocker Bridge, makes an interesting diversion and gives you the opportunity to purchase unusual souvenirs.
+Hypothesis: Courthouse Antiques and Craft Market is just your typical grocery store chain.",contradiction
+27,"Premise: The others followed.
+Hypothesis: The others had followed Jon.",neutral
+28,"Premise: Hold your fire, Summerhaye, he remarked jocularly. 
+Hypothesis: We just want to ask you some questions.",neutral
+29,"Premise: They travel from farm to farm, tending and harvesting fruits and vegetables.
+Hypothesis: They tend to fruits and vegetables at several farms.",entailment
+30,"Premise: they'll just say oh well you know the Republicans have this election we'll see you in four years
+Hypothesis: They are claiming to have won the election for the Democrats.",contradiction
+31,"Premise: Apply total cost   Monitor budgets, costs, and schedules eee management principles   Apply variance analysis eee
+Hypothesis: If budgets are not monitored, the company will go bankrupt.",neutral
+32,"Premise: and i just kept that thing on constantly because i was going English language this is wonderful and and they at least i kind of knew what was going on on the other side of the world and trying to keep up with
+Hypothesis: I did not concern myself with events on the other side of the world",contradiction
+33,"Premise: never be the same so  i don't know it's  it's really scary and i don't know what to and i don't know what needs to be done you know it seems like there's no room in jails to put them in jail and when they do put them in there you know were i'm taking a business law class at night and the guy that teaches it is a practicing criminal attorney and
+Hypothesis: It seems the jails are overcrowded and they don't have any rooms for criminals.",entailment
+34,"Premise: It is not like courage or honesty.
+Hypothesis: It is unlike courage or honesty.",entailment
+35,"Premise: The first stop on the east coast is Beppu perhaps the busiest and certainly the most intense spa town in Japan, with a permanent population of just 150,000 but about 13 million visitors a year.
+Hypothesis: The spa town brings in over 15 million visitors a year.",neutral
+36,"Premise: Structured Interview An interview in which questions to be asked, their sequence, and the detailed information to be gathered are all predetermined; used where maximum consistency across interviews and interviewees is needed.
+Hypothesis: Interviewers can never really be sure what to expect when conducting structured interviews.",contradiction
+37,"Premise: 87, Employers' Accounting for Pensions ]
+Hypothesis: The employers didn't account for the pensions.",contradiction
+38,"Premise:  The tunnel through the great wall leads to a classic quadrangle fit for royal reviews.
+Hypothesis: The tunnel through the great wall had been built for emergencies.",neutral
+39,"Premise: Appointments will be taken at 4:05 p.m.
+Hypothesis: Reservations can be had around 4pm.",entailment
+40,"Premise: Doctor Edward didn't mind the assistant lecturer's unpleasant behavior so much, but he did mind the unpleasant behavior of the assistant professor - Ms. Czeslawa Ceracz.
+Hypothesis: Dr Edward had no opinion on the professor or the lecturer.",contradiction
+41,"Premise: [I]f [a statute's provisions] are so mutually connected with and dependent on each other, as conditions, considerations or compensations for each other, as to warrant a belief that the legislature intended them as a whole, and that, if all could not be carried into effect, the legislature would not pass the residue independently, and some parts are unconstitutional, all the provisions which as thus dependent, conditional or connected, must fall with them.
+Hypothesis: The legislature will not pass independently.",entailment
+42,"Premise: The area is named after the large salt pond you'll see.
+Hypothesis: The salt pond you notice is also the name of the area.",entailment
+43,"Premise: Democrats say Republicans who accuse Clinton of wagging the dog are deliberately aiding and comforting the enemy.
+Hypothesis: Democrats say Republicans are doing a counterproductive action in this occasion, since they didn't think carefully about it.",neutral
+44,"Premise: um from i forgotten this is Sherwin Williams Paint or something but anyway it's it's remarkable that's one of the problems though when you start painting to try to get the you know you want this you want this to look like this and you want that to look like that and of course if it's all white you're all right but when you start getting into colors have you had problems getting colors to match
+Hypothesis: It's easy to match white paint because all white paint looks exactly the same. ",neutral
+45,"Premise: In addition, it is important that the results of the actions taken be openly communicated or available not only to the Congress and agency management, but also to the general public.
+Hypothesis: The public has no reason to know what the government is doing.",contradiction
+46,"Premise: Unlike the great capital cities of Europe, there is no prevailing style of architecture here, no monumental core for a new building to harmonize or clash with.
+Hypothesis: There is no prevailing or dominant style of architecture unlike capital cities of Europe.",entailment
+47,"Premise: the ability of people to access you know your financial records or for example your credit rating uh rating
+Hypothesis: Some people have access to your information, such as financial records and credit rating. ",entailment
+48,"Premise:  Ser Perth had led him through the same door by which they'd entered--but _not_ into the same hallway.
+Hypothesis: There were a number of different doors.",neutral
+49,"Premise: well there's two things that drive that up here one is we is the lack of good service people
+Hypothesis: There are there things that drive it up here.",contradiction
+50,"Premise: oh okay oh all right
+Hypothesis: No, absolutely no way. ",contradiction
+51,"Premise: yeah yeah and they're all going to have to pay it back they're going to be in debt for the rest of their lives
+Hypothesis: They will be paying back debt for their whole lives.",entailment
+52,"Premise: It costs virtually the same amount to produce, no matter how many people use it, and no matter how heavy the use.
+Hypothesis: The resources for manufacturing the product are infinite.",neutral
+53,"Premise: A re-creation of a medieval knights' jousting tournament, it's great fun for families.
+Hypothesis: A recreation of jousting is a lot of fun.",entailment
+54,"Premise: We've not heard from her, as it happens.
+Hypothesis: We have received word from here, it turns out.",contradiction
+55,"Premise: That is Annan's next test.
+Hypothesis: Annan has not taken any tests.",contradiction
+56,"Premise: She wondered what factors influenced maintenance.
+Hypothesis: She discovered maintenance needed more attention.",neutral
+57,"Premise: oh yeah and see i was i was really thinking that they might have a let down because i i i was in a basketball pot and i picked uh Kansas for i guess more or less an upset but i i was thinking that uh Duke might have a let down after playing such a tough game with UNLV but uh i tell you what they uh they came back and put it to them it was a good game but i i i had thought all the way through that UNLV was going to be the team that would just walk away with it
+Hypothesis: I didn't expect Duke to win, but they did.",entailment
+58,"Premise: This is in reply to your inquiry regarding our Office's March 28, 1997, Congressional Review Act report on a major rule concerning the inspection and expedited removal of aliens issued by the Immigration and Naturalization Service (INS) and the Executive Office for Immigration Review of the Department of Justice (GAO/OGC-97-32).
+Hypothesis: The INS is the only organization capable of removing aliends.",neutral
+59,"Premise: Now they are claiming they have no money and can't afford a wedding.
+Hypothesis: The have bragged to everyone about the fancy wedding the can afford.",contradiction
+60,"Premise: Risk Factors and Costs Associated with and Asthma Attack.
+Hypothesis: Risks and costs associated with swimming in the deep end. ",contradiction
+61,"Premise: Legal Services of Eastern Missouri does receive the valuable volunteer assistance of more than 1,500 attorneys.
+Hypothesis: Legal Services of Eastern Missouri gets help from just five attorneys.",contradiction
+62,"Premise: The Notice of Proposed Rulemaking solicited public comment on specific aspects of the collections and was submitted to OMB for review pursuant to 44 U.S.C.
+Hypothesis: The OMB received the Notice of Proposed Rulemaking about public comment.",entailment
+63,"Premise: One would, of course, be careful not to hit too hard.
+Hypothesis: One would be free to hit as hard as they please.",contradiction
+64,"Premise: Jamaicans are sociable people, living their lives out in the open and knowing everything about their neighbor's business.
+Hypothesis: Jamaicans are willing to be open to their neighbor.",entailment
+65,"Premise: That situation, plus the gradual decline of Spanish naval power, proved very tempting to others.
+Hypothesis: The Spanish navy was gaining strength.",contradiction
+66,"Premise: you know it's like whoa
+Hypothesis: You know, not worth noticing.  ",contradiction
+67,"Premise: Instead of equalizing things by scrapping the New York payment scheme, Congress decided to equalize things by nationalizing it.
+Hypothesis: The New York payment scheme was the most obvious  thing to get rid of.",neutral
+68,"Premise: Are there really any alternatives?
+Hypothesis: Are other options available that will increase efficiency?",neutral
+69,"Premise: The president, of course, ought to tell the truth, but Clinton being Clinton, he might not.
+Hypothesis: Clinton was uncomfortable with his decision.",neutral
+70,"Premise: huh the reason that we're thinking about something like that we took a trip in my brother in law and sister in laws to Florida
+Hypothesis: It was the last chance for us to take a trip to visit my brother and sister in laws in Florida.",neutral
+71,"Premise: In appearance, Montmartre is still the little country village of 400 years ago ' narrow, winding, hilly streets and dead-ends.
+Hypothesis: Montmarte is vastly dissimilar to the place it was just 400 years ago.",contradiction
+72,"Premise: I was a bit ashamed of myself for fancying things maybe, but, by and by, I saw the man opposite me wink at a woman who was sitting next to me, and I felt scared again, and was glad the papers were safe.
+Hypothesis: The papers were safe from the man opposite the woman.",neutral
+73,"Premise: so he had to redo them like three times before i was happy with them before he was happy you know that they even looked halfway decent and
+Hypothesis: They did not look good, the first and second time he did them.",neutral
+74,"Premise: It was sixth-century barbarians who commandeered the massive round brick pile as a fortress, using ancient statues as missiles to hurl on the heads of their enemies below.
+Hypothesis: Barbarians first commandeered the fortress in the 8th century.",contradiction
+75,"Premise: Intoxicated by his plan, Tommy gently unhooked the picture of the Devil and Faust, and settled himself in position.
+Hypothesis: Tommy got into position to do his plan.",entailment
+76,"Premise: we beat Buffalo in in and was it third of December
+Hypothesis: We beat then on December third.",entailment
+77,"Premise: There are at least three major reasons for rural route time per possible delivery being so close to the corresponding time for city residential 
+Hypothesis: There are three or more major reasons for rural route times being so close to the corresponding time for city residential. ",entailment
+78,"Premise: The next morning, at his postelection news conference, Gingrich accused the media of misrepresenting the victorious governors as moderates rather than conservatives.
+Hypothesis: Gingrich accused the media of saying the governors were conservatives instead of moderates.",contradiction
+79,"Premise: Those days were bright and full of promise, and they can come again.
+Hypothesis: Those days were horrible and should not be repeated.",contradiction
+80,"Premise: The number of performed procedures grew at a never-before seen pace, and a trend for an IQ higher than 180 lasted several years.
+Hypothesis: Many people got procedures done to give them higher IQs.",neutral
+81,"Premise: The first croseerected here, in the 14th century, marked the heart of the marketplace and provided a place for royal proclamations to be given a public hearing.
+Hypothesis: The first cross was built here in the 17th century.",contradiction
+82,"Premise: Toward the south end of the open space is the Bhimsen Tower, a useful landmark visible from many parts of Kathmandu.
+Hypothesis: The Bhismen Tower was used to watch if invaders came in the area.",neutral
+83,"Premise: You outwitted me.
+Hypothesis: You have never outwitted me.",contradiction
+84,"Premise: The town offers good accommodations and amenities, including a range of restaurants with Chinese specialties, such as steamed chicken with bean sprouts and noodles.
+Hypothesis: The town does not have accommodations.",contradiction
+85,"Premise: and they put the baby on a heart lung monitor when i took her home and the insurance carrier was not going to cover this because it was considered preventative treatment sure
+Hypothesis: I was worried about my newborn child's well being.",neutral
+86,"Premise: oh do they really?
+Hypothesis: Really, do they?",entailment
+87,"Premise: The Institut de France, handsome home of the august Acad???­mie Francaise, is on the Quai Conti by the Pont des Arts.
+Hypothesis: The Acadé­mie Francaise was founded in the early 19th century.",neutral
+88,"Premise: Apparently nobody told him that equilibrium thinking--the idea that in order to understand how individuals interact, it is often useful to ask what would happen if each individual was doing the best he or she could given what everyone else is doing--is almost as prevalent in . In fact, the really funny thing is that for the most part the bionomics program has already been  Economics already is very similar to evolutionary theory, and vice versa.
+Hypothesis: The bionomics program is a relatively recent development in academia.",neutral
+89,"Premise: yeah yeah i mean i mean Saddam Hussein lost so much money during the war that it was ridiculous and he all he was trying to do was make money at the beginning so
+Hypothesis: Saddam Hussein lost a lot of money during the war.",entailment
+90,"Premise: The well-informed guides will give you plenty of information about the natural and introduced flora of the island.
+Hypothesis: Some of the guides moved here specifically to study about plants.",neutral
+91,"Premise: uh-huh uh-huh now i've seen another clip of um the guy that plays in Murphy Brown i don't know his name but he's he played the uh the the character in it that was very like gross i mean very dirty and oh i saw the one clip of him and ugh it when he was first i guess he was taking Kevin Costner to
+Hypothesis: I know a lot about those actors",neutral
+92,"Premise: and they bring the uh you know little samples and you've got like maybe five hundred well that's an exaggeration
+Hypothesis: And they brought out a lot of little samples.",entailment
+93,"Premise: A horse-drawn phaeton will take you on a tour, which passes through Cumhuriyet Meydane (Republic Square), the centre of modern Izmir, surrounded by glittering luxury hotels and palm-fringed promenades.
+Hypothesis: The tour goes through Izmir, and passes the Cumhuriyet Meydane on the way.",entailment
+94,"Premise: Of the Edo-era buildings that have survived or been restored, the most important are the main hall of Kan'eiji and the Toshogu Shrine to the first Tokugawa Shogun Ieyasu a lesser version of the great sanctum at Nikko, in the mountains of Nagano Prefecture .
+Hypothesis: The Toshogu Shrine is very beautiful and so is the main hall of Kan'eiji.",neutral
+95,"Premise: yeah i listen to KGPS classic rock
+Hypothesis: I listen to music like classic rock.",entailment
+96,"Premise: She says, according to the Post , the secret is opening your mouth 'really wide' when eating.
+Hypothesis: The Post reported what she said.",entailment
+97,"Premise: Great movies are fewer and farther between (at least in this writer's opinion--at least for the time being), and these days even the media that employ the critics measure a movie's success not by the critics' reaction but by opening weekend gross.
+Hypothesis: Well known critics are being ignored when reviewing a movie.",neutral
+98,"Premise: Breakfast is ready, said John Cavendish, coming in from the hall. 
+Hypothesis: John Cavendish said the breakfast is ready, despite not being in the kitchen.",entailment
+99,"Premise: That's Bradley's real casting couch.
+Hypothesis: Bradley has a real casting couch.",entailment
+100,"Premise: The saying  Time is money  is quite literally true in Hong  more is spent on watches and clocks here than on cameras and optical goods.
+Hypothesis: More money is spent on watches and clock than on cameras in Hong Kong.",entailment
+101,"Premise: Composer Giuseppe Verdi was the Risorgimento's towering artist.
+Hypothesis: Giuseppe Verdi was a grape farmer.",contradiction
+102,"Premise: oh does she now do you guys like to go out for sort of fine dining or are you more uh
+Hypothesis: Do you guys go out snow boarding or are you more into skiing?",contradiction
+103,"Premise: yeah in fact uh Jordan hit the winning basket to win by one point with like sixteen seconds to go
+Hypothesis: The other team didn't have enough time to respond.",neutral
+104,"Premise: I won't admit it, even to myself. 
+Hypothesis: I will never admit being wrong to a soul, not even myself.",neutral
+105,"Premise: NOMINAL (OR FACE OR PAR) VALUE OR AMOUNT -The amount of a bond, note, mortgage, or other security as stated in the instrument itself, exclusive of interest or dividend accumulations.
+Hypothesis: The nominal value of a mortgage is recorded separately from the mortgage itself.",contradiction
+106,"Premise: Would it be rude if I took a nice bottle of French wine (OK, maybe two)?
+Hypothesis: Would it be acceptable to take their wine?",contradiction
+107,"Premise: yeah kind of fizzles out yeah that's true that's true
+Hypothesis: There is no justification to the action.",contradiction
