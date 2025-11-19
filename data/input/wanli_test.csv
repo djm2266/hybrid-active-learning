@@ -1,4 +1,4 @@
-id,example,label
+id,example,Label
 0,"Premise: He believed that the new system would improve the organization's ability to compete in the global marketplace.
 Hypothesis: The organization is competing in the global marketplace.",entailment
 1,"Premise: We were quite surprised to find that the program was not working.

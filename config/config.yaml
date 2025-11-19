@@ -8,7 +8,7 @@ active_learning:
     threshold_decrease_rate: 0.05
     threshold_increase_rate: 0.05
   budget:
-    cf_budget_per_round: 15
+    cf_budget_per_round: 0
     cost_cf: 0.1
     cost_human: 1.0
     human_budget_per_round: 100
@@ -19,7 +19,7 @@ active_learning:
   initial_labeled_size: 50
   knob:
     adaptive: true
-    cf_weight: 0.13043478260869565
+    cf_weight: 0.0
   routing:
     allow_cf_conditions:
     - medium_uncertainty: true
